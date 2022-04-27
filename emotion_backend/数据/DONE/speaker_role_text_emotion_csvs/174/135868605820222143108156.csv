@@ -1,0 +1,32 @@
+0,2,客户,我在那个淘宝上看到你的这一款呢就是净水加热这个管线机啊就是一体的，哈,neutral,neutral,neutral,neutral
+1,2,客户,他不有一个智能龙头，嘛我看你在客户上就是就这个介绍上没写。这个,neutral,neutral,neutral,neutral
+2,2,客户,智能龙头这个安装那个预留石英石板那个孔有多大。,neutral,neutral,neutral,neutral
+3,3,客服,28~35都是可以的。,neutral,neutral,neutral,neutral
+4,2,客户,28~35那我留35。,neutral,neutral,neutral,neutral
+5,2,客户,那那空大那那那大了怎么办？,neutral,neutral,neutral,neutral
+6,3,客服,呢35不会大。,neutral,neutral,neutral,neutral
+7,2,客户,啊大五我现在就是说我家里现在这个40版已经开那个35。,neutral,neutral,neutral,neutral
+8,3,客服,您开的那个尺寸是多少？,neutral,neutral,neutral,neutral
+9,2,客户,呀35。,neutral,neutral,neutral,neutral
+10,3,客服, 35可以用的。,neutral,neutral,neutral,neutral
+11,2,客户,是可以用，吧我得问你你是肯定还是否定还是提这个疑问的？,neutral,neutral,neutral,neutral
+12,2,客户,可以用到它这个晃动吗？它那个就那个那个普惠。啊,neutral,neutral,neutral,neutral
+13,2,客户,是的，那我看那个小米那个跟你家那个差不多少，他怎么让我开30。,neutral,neutral,neutral,neutral
+14,3,客服,嗯这个其他品牌我们不清楚的。,neutral,neutral,neutral,neutral
+15,2,客户,啊你们这是2345可以也可以安装是吧？,neutral,neutral,neutral,neutral
+16,3,客服,对是的。,neutral,neutral,neutral,neutral
+17,2,客户,因为我这看你这个你这还没有介绍小米，比如说安装尺寸，你没有介绍三。,neutral,neutral,neutral,neutral
+18,3,客服,15我们的话28~35都可以对的。,neutral,neutral,neutral,neutral
+19,2,客户,呃28~35就是说我安装的时候就这个龙头，啊你这是智能龙头，嘛我按照那个位置它不会,neutral,neutral,neutral,neutral
+20,2,客户,主呃就是在这个纵向进行晃动，嘛有有你有那个有没有那个扣？,neutral,neutral,neutral,neutral
+21,2,客户,就是扣盖有是吧有压扣盖是吧？,neutral,neutral,neutral,neutral
+22,3,客服,您指的压扣盖是什么东西？,neutral,neutral,neutral,neutral
+23,2,客户,啊就是下面就是这个这个龙头啊和那个,neutral,neutral,neutral,pessimistic
+24,2,客户,石英板就接触的地方，你说拧拧好之后了，你比如说这个接气，,neutral,pessimistic complaining,pessimistic,pessimistic
+25,2,客户,你说28~35必定有间隙，有7个呢那那个间隙的孔能盖住是吧？,neutral,neutral,neutral,pessimistic
+26,3,客服,我们这个它是有垫片的，然后呢去控制的，,neutral,neutral,neutral,neutral
+27,3,客服,所以的话28~35这个灵活都是可以的。,neutral,neutral,neutral,neutral
+28,2,客户,都可以的。,neutral,neutral,neutral,neutral
+29,3,客服,哈那好勒好，谢谢你。,neutral,optimistic thankful,optimistic,optimistic
+30,2,客户,啊好再见。,neutral,neutral,neutral,neutral
+31,3,客服,嗯好再见。,neutral,neutral,neutral,neutral

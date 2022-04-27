@@ -1,0 +1,5 @@
+data-root-dir-path: /home/lighthouse/case_generation_evaluation/DONE
+staff-voice-library-path: /home/lighthouse/case_generation_evaluation/staff_voice_library
+upload-staff-voice-tmp-path: /home/lighthouse/case_generation_evaluation/staff_voice_library/tmp
+speech_skill-path: /home/lighthouse/case_generation_evaluation/DONE/recommendation/speech_skill.csv
+service_template-path: /home/lighthouse/case_generation_evaluation/DONE/recommendation/service_template.csv

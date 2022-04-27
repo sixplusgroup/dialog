@@ -1,0 +1,96 @@
+0,2,客服,你好。国办科技,neutral,neutral,neutral,neutral
+1,2,客服,泻火吗？,neutral,neutral,neutral,neutral
+2,3,客户,uh Hm喂您好您好您好。,neutral,neutral,neutral,pessimistic
+3,3,客户,嗯我去年的时候10月份在你家买的那个280计算机，然后,neutral,neutral,neutral,pessimistic
+4,3,客户,1月份的时候呢发发现他那个睡眠模式声音很大，,neutral,neutral,neutral,pessimistic
+5,3,客户,就是像开锅似的，一直呜呜一直咕噜咕噜的那种那种掌声。,neutral,pessimistic angry,pessimistic,pessimistic
+6,3,客户,然后跟你们客服报完之后，,neutral,neutral,neutral,pessimistic
+7,3,客户,当时也没说什么处理课的，就让我录视频，然后我又不方便，正好在外地，,neutral,neutral,neutral,pessimistic
+8,3,客户,然后前几天录完视频之后，他让那个维修人员上门看了，的确是有问题，,neutral,neutral,neutral,pessimistic
+9,3,客户,不是像维修人员说的那样，是不是里面掉东西了，这样那样的，检查完一圈之后就是产品有问题，,neutral,neutral,neutral,pessimistic
+10,3,客户,现在我要求换新，然后你们客服又不。,neutral,neutral,neutral,pessimistic
+11,2,客服,同意你怎么说，,neutral,neutral,neutral,neutral
+12,2,客服,这个我们是需要去反馈到技术部门整理的，还是需要在客户上联系，我们都是一样的。,neutral,neutral,neutral,neutral
+13,2,客服,我们和技术部要去反馈的，正常的话也是通过视频，这样的话您这里可以在线跟我们联系也是一样的。,neutral,neutral,neutral,neutral
+14,3,客户,但是你们页面上有的签名写保保质期是那个一年内免费换新，,neutral,neutral,neutral,neutral
+15,3,客户,然后有的又说不是当时买的时候也没有给我标明这一点区分出来，,neutral,neutral,neutral,neutral
+16,3,客户,一般机器你像在京东买在哪里买，都是一年内免费换新的，然后他现在就揪着我这一点，他不给我换新。,neutral,neutral,neutral,neutral
+17,2,客服,啊不是所有类目都是以一年内免费免费换新的。,neutral,neutral,neutral,neutral
+18,3,客户,那你们是一个产品一个品牌。,neutral,neutral,neutral,neutral
+19,2,客服,那所有产品不都一样吗？,neutral,neutral,neutral,neutral
+20,2,客服,这跟产品类目是不一样的。,neutral,neutral,neutral,neutral
+21,3,客户,那怎么着那我买的这个是小型的，中北只能按这个280，,neutral,neutral,neutral,neutral
+22,3,客户,然后你给我安的，你们就按照你们那个换新的时间，90天正好刚超90天就出问题了，然后就不给我解决。,neutral,neutral,neutral,neutral
+23,2,客服,90天内的是换新的，90天以外的是正常。,neutral,neutral,neutral,neutral
+24,3,客户,的这个产品卡的，怎么刚好卡在这个点上，呢过90天就出问题，啊,neutral,neutral,neutral,neutral
+25,3,客户,是不是产品本身有问题？啊你有没有统计过自己的这个安装也会出现的，像这种情况有没有问题？这种是不是高发的？,neutral,neutral,neutral,neutral
+26,2,客服,这种情况没有告发的。,neutral,neutral,neutral,neutral
+27,3,客户,女士你确定没有告发。,neutral,neutral,neutral,neutral
+28,2,客服,那么登记的手机号码是多少？我先查一下您的资料好吗？,neutral,neutral,neutral,neutral
+29,3,客户,就是这个号码。,neutral,neutral,neutral,neutral
+30,2,客服,您来电是加密的，我看不到的，啊那您等一下。,neutral,neutral,neutral,neutral
+31,3,客户,嗯嗯啊177嗯900嗯。,neutral,neutral,neutral,neutral
+32,2,客服,67686。,neutral,neutral,neutral,neutral
+33,2,客服,稍等一下。,neutral,neutral,neutral,neutral
+34,2,客服,女士您好，非常抱歉您这台机器我看了一下，它10月5号安装的，您反馈问题的时候，1月19号确实已经超过时间了，,neutral,neutral,neutral,neutral
+35,2,客服,这边没有办法进行换货的。,neutral,neutral,neutral,neutral
+36,3,客户,你们这产品品控做得很好。呀,neutral,neutral,neutral,neutral
+37,2,客服,过90天我们这里的话也是按照质保承诺来的。,neutral,neutral,neutral,neutral
+38,3,客户,是不是都算好的，这种是没有办法的，产品。,neutral,neutral,neutral,neutral
+39,2,客服,然后最后你是不会有任何一家品牌去计算，一旦超过90天，然后就会让机器发生故障的，这个是不会的。,neutral,neutral,neutral,neutral
+40,2,客服,出现问题我们会按照三包给您处理，我们承诺的三包给您处理，正常的三包退换基本上都是在15天一个月，这样我们公司已经是做到90天了。,neutral,neutral,neutral,neutral
+41,3,客户,怎么叫正常。,neutral,neutral,neutral,neutral
+42,2,客服,的国家机器的三包一般有15天退换货，有30天退换货，我们产品已经超出国家三包是90天退换货了，,neutral,neutral,neutral,neutral
+43,2,客服,这个是已经超出的，所以现在是没有办法给您处理。,neutral,neutral,neutral,neutral
+44,3,客户,你不觉得正好超出就出问题，这一点很不让人,neutral,pessimistic complaining,pessimistic,pessimistic
+45,3,客户,接受吗？很不容易让人接受吗？,neutral,pessimistic complaining,pessimistic,pessimistic
+46,2,客服,没有任何一家公司能够保证产品永远都不出问题的，出现问题我们都会给您按照三包处理，这个是没有办法换货的，非常抱歉。,neutral,neutral,neutral,neutral
+47,3,客户,那我现在这段时间需要用，因为东北还开不了窗户，我这段时间需要用，,neutral,neutral,neutral,neutral
+48,3,客户,你能去修的时候给我一个替换的用了吗？,neutral,neutral,neutral,neutral
+49,2,客服,这个是没有的，如果您有需求，我们可以向领导反馈那不。,neutral,neutral,neutral,neutral
+50,3,客户,可能那你让我你让我大冬天开着窗户睡觉吗？,neutral,neutral,neutral,neutral
+51,2,客服,嗯很抱歉女士这个是没有备用的，我们可以帮您把这个风口提供东西堵。,neutral,neutral,neutral,neutral
+52,3,客户,上堵上就完事了，嘛我我是说。,neutral,neutral,neutral,neutral
+53,2,客服,收好以后会给您寄回的，这个我们也会尽量尽快给您去寄回的。,neutral,neutral,neutral,neutral
+54,3,客户,尽快是多久？,neutral,neutral,neutral,neutral
+55,3,客户,一来以后光路上时间就要10天。,neutral,neutral,neutral,neutral
+56,2,客服,你们修正能修这个是没有备用，你确定修就能修好吗？,neutral,neutral,neutral,neutral
+57,3,客户,你光说抱歉有什么用？啊,neutral,neutral,neutral,neutral
+58,2,客服,产品出现问题是需要维修的，维修是需要时间的，这个肯定是要正常有时间产生的。,neutral,neutral,neutral,neutral
+59,3,客户,这不是其他的东西，,neutral,neutral,neutral,pessimistic
+60,3,客户,是肯定是因为我装这个东西是机房装修，然后在保证这个空气质量的情况下，他买你们这个产品那现在出现了质量问题，,neutral,neutral,neutral,pessimistic
+61,3,客户,你们除了只说给我拿个东西堵上之外，现在还有没有别的方案？,neutral,pessimistic complaining,pessimistic,pessimistic
+62,2,客服,那这里的话我们会去和领导反馈，稍后给您留言。,neutral,neutral,neutral,neutral
+63,3,客户,什么时候给我答复？,neutral,neutral,neutral,neutral
+64,2,客服,今天之内会给您回复。,neutral,neutral,neutral,neutral
+65,3,客户,一天之内能不能。,neutral,neutral,neutral,neutral
+66,2,客服,今天就是今天之内给您回复？,neutral,neutral,neutral,neutral
+67,3,客户,行，那可以你反馈一下，吧你就问一下东北这个时间不能开窗户的前提下，怎么能安全的在屋里面睡觉？,neutral,neutral,neutral,neutral
+68,2,客服,您的需求我这边会反馈的，明白您的意思了。,neutral,neutral,neutral,neutral
+69,3,客户,另外一个就是过保过保之起，过过你们的那个90天就出问题，,neutral,neutral,neutral,neutral
+70,3,客户,说明你们产品的质量也有问题，我们但是刚过到时候你们还这么信誓旦旦的说，我们就是按照三包来的，,neutral,neutral,neutral,neutral
+71,3,客户,三包就是只保90天。,neutral,neutral,neutral,neutral
+72,2,客服,呗换货90天之内维修是两年，这款机器，我就说这个换货换货90天。,neutral,neutral,neutral,neutral
+73,3,客户,90天之内就出问题。,neutral,neutral,neutral,neutral
+74,2,客服,你们产品你们这个是90天之外的，只能够给您维修的保险。,neutral,neutral,neutral,neutral
+75,3,客户,刚过90天这个你也反馈一下。,neutral,neutral,neutral,neutral
+76,2,客服,已经反馈了，反馈的结果是只能。,neutral,pessimistic complaining,pessimistic,pessimistic
+77,3,客户,而且而且除掉这个假期我根本就没有用90天。,neutral,neutral,neutral,neutral
+78,2,客服,这个和您使用天数没有关系，我们已安装之日起计算。,neutral,neutral,neutral,neutral
+79,3,客户,你的意思是我放在不用过90天，你打开坏了也是我的问题了吧。,neutral,pessimistic complaining,pessimistic,pessimistic
+80,2,客服,你是我们没有办法判断您90天之内有没有使用的，我们只能以安装这些。,neutral,neutral,neutral,neutral
+81,3,客户,您不有数据吗？你可以看一下数据。,neutral,neutral,neutral,neutral
+82,3,客户,啊,neutral,neutral,neutral,neutral
+83,2,客服,噢这个没有办法，我可以给你倒安装，只要的话不可能一。,neutral,neutral,neutral,neutral
+84,3,客户,不可能你要的话我可以每天在微信上给你导出来下下来。,neutral,neutral,neutral,neutral
+85,2,客服,嗯不好意思女士，没有任何一个品牌是从您的使用进度计算保持天数的。,neutral,neutral,neutral,neutral
+86,3,客户,你不用跟我绕这些，就是不管我用还是不用，,neutral,pessimistic angry,pessimistic,pessimistic
+87,3,客户,刚过90天它就出问题，那显然就是一个不可接受的一个产品质量。,neutral,neutral,neutral,pessimistic
+88,2,客服,您的需求我只能回去上报，那很抱歉，我现在没有办法直接给他两点。,neutral,neutral,neutral,neutral
+89,3,客户,你能不能帮我反馈一下？,neutral,neutral,neutral,neutral
+90,2,客服,已经帮你们接口能不能反馈？,neutral,neutral,neutral,neutral
+91,2,客服,噢肯定帮您反馈。,neutral,neutral,neutral,neutral
+92,3,客户,您的任何需求，我给你答复两点，啊这两个点。,neutral,neutral,neutral,neutral
+93,2,客服,对两个条件。,neutral,neutral,neutral,optimistic
+94,2,客服,好的，谢谢，好的，嗯不客气再见。,neutral,optimistic thankful,optimistic,optimistic
+95,2,客服,嗯,neutral,neutral,neutral,neutral

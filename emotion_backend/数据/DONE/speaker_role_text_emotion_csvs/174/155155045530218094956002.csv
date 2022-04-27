@@ -1,0 +1,21 @@
+0,2,客户,您好国脉科技。,neutral,neutral,neutral,neutral
+1,3,客服,啊你好，咱那个净水器的时候也是这个电话是吧？,neutral,neutral,neutral,neutral
+2,2,客户,噢对是的。,neutral,neutral,neutral,neutral
+3,3,客服,噢我以为打错了。那个,neutral,neutral,neutral,neutral
+4,3,客服,咱那个净水器它为什么会隔一段时间就是在不不动它的情况下，它自己会犹豫不开，,neutral,neutral,neutral,neutral
+5,3,客服,大量的水压出来。,neutral,neutral,neutral,neutral
+6,2,客户,呀嗯您说的那个应该是自动冲洗的一个功能，因为我们机器的话，它是就是如果您,neutral,neutral,neutral,neutral
+7,2,客户,呃不使用机器的时候，它每个时间段它是会进行进行自动冲洗的。,neutral,neutral,neutral,neutral
+8,3,客服,自动冲洗是吧？,neutral,neutral,neutral,neutral
+9,2,客户,对对对是的。,neutral,neutral,neutral,neutral
+10,3,客服,啊那个不不影响是吧？,neutral,neutral,neutral,neutral
+11,2,客户,噢那个不影响的那个是正常。,neutral,neutral,neutral,neutral
+12,3,客服,的正常了是吧？,neutral,neutral,neutral,neutral
+13,3,客服,噢那行那我知道了，啊我想的是机器出问题了。,neutral,neutral,neutral,neutral
+14,2,客户,啊没有的，它这个自动冲洗的话是一般是累计用水30分钟的话，,neutral,neutral,neutral,neutral
+15,2,客户,然后您中途如果没有冲洗的话会自动冲洗一次，,neutral,neutral,neutral,neutral
+16,2,客户,然后如果连连续待机6个小时，中途没有用水的话，它也会再自动冲洗一次一次，大概的话可能是在18秒左右。,neutral,neutral,neutral,neutral
+17,3,客服,嗯对就是那样那强大就是比平常的水流大得多的那个可有劲。,neutral,pessimistic complaining,pessimistic,pessimistic
+18,2,客户,那个对对对是的。,neutral,neutral,neutral,neutral
+19,3,客服,噢那行行行那我知道了。,neutral,neutral,neutral,neutral
+20,2,客户,嗯好好谢谢啊好好再见，好再见嗯。,neutral,optimistic thankful,optimistic,optimistic

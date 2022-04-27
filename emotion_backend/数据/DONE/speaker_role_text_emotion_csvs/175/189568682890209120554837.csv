@@ -1,0 +1,24 @@
+0,2,客服,你好，国脉科技。,neutral,neutral,neutral,neutral
+1,3,客户,您好，我那个向你们反馈的师傅没有给我安装的这个问题，今天也没有新的师傅联系我。,neutral,neutral,neutral,neutral
+2,2,客服,噢好的，我这边是看您之前反馈的记录是亳州市这个地址是吧？,neutral,neutral,neutral,neutral
+3,3,客户,对是的，这个师傅让我厨房泡水，,neutral,neutral,neutral,neutral
+4,3,客户,机器在安装过程中摔倒磨损它不会安装，还非要说给我完安装好了，,neutral,neutral,neutral,neutral
+5,3,客户,我在网上联系你们客服，然后就想师傅安装好了，,neutral,neutral,neutral,neutral
+6,3,客户,需要我提供视频，我现在已经从外地赶回家了，视频也提供你们了，,neutral,neutral,neutral,neutral
+7,3,客户,就是确实是不出水里面的线给我接的乱七八糟的，让我家就厨房都泡水。,neutral,neutral,neutral,neutral
+8,2,客服,噢这样子是吧？非常不好意思，因为我看昨天客服给您记录了，然后您的要求是今天下午之后。,neutral,neutral,neutral,neutral
+9,2,客服,噢这个我明白的，因为我看您昨天有说就是呃是今天下午之后开始有人，所以我们这边就没有提前去联系您这样子，,neutral,neutral,neutral,neutral
+10,2,客服,就安排的是今天下午之后这样子，就是怕耽误您的时间。嗯嗯,neutral,neutral,neutral,neutral
+11,3,客户,我就是要要投诉那个师傅不能装，为什么要给我装把我家搞成这样他还要跟你们自立问一下，就是安装好了，,neutral,pessimistic angry,pessimistic,pessimistic
+12,3,客户,非要拿到这笔安装费，就赖在我家不走了，让他走他就不走，非要在我家安装。,neutral,neutral,neutral,pessimistic
+13,2,客服,噢好的好的不好意思，这边昨天我们已经跟负责人反馈了，就他那边会处罚师傅的，就是后续我们这边看,neutral,neutral,neutral,neutral
+14,2,客服,像师傅的表现，如果还有此类问题的话，我们直接会不会跟他进行合作的。,neutral,neutral,neutral,neutral
+15,3,客户,他就是没有见过这个果卖机器非要安装，,neutral,neutral,neutral,pessimistic
+16,3,客户,跟你们一个技术人员打电话应该是江西哪里的一个号码，技术人员就说图片和视频发得很明白了，,neutral,neutral,neutral,pessimistic
+17,3,客户,你怎么就是不会装在我家，从早上搞到下午。,neutral,pessimistic complaining,pessimistic,pessimistic
+18,2,客服,嗯噢好的好的，不好意思，师傅那边我们这边肯定会处罚他的，有投诉的话我们这边都会处罚师傅的，这个您放心。,neutral,neutral,neutral,neutral
+19,3,客户,好的，谢谢你，啊啊没事的。,neutral,optimistic thankful,optimistic,optimistic
+20,2,客服,我这边也催一下那个负责人，然后呢让新师傅尽快跟您联系一下好吧？,neutral,neutral,neutral,neutral
+21,3,客户,嗯好的好的。,neutral,neutral,neutral,neutral
+22,2,客服,嗯好好不好意思，嗯好，那这边先不打扰您了，好再见。,neutral,neutral,neutral,neutral
+23,2,客服,啊,neutral,neutral,neutral,neutral

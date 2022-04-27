@@ -1,0 +1,156 @@
+0,2,客服,谷脉，科技。,neutral,neutral,neutral,neutral
+1,2,客服,喂你好。,neutral,neutral,neutral,neutral
+2,2,客服,您好，这边是国迈的，请问下给您到吗？喂你好国脉吗？,neutral,neutral,neutral,neutral
+3,2,客服,噢你好，我这边是国脉的。,neutral,neutral,neutral,neutral
+4,2,客服,喂,neutral,neutral,neutral,neutral
+5,2,客服,您好，请问一下可以听到吗？我啊我听得到您说话为。,neutral,neutral,neutral,neutral
+6,3,客户,啥不说话？,happy,neutral,optimistic,optimistic
+7,2,客服,呢我一直在说话先生。,neutral,neutral,neutral,neutral
+8,3,客户,我投诉就是我刚在京东买了一个，我之前在京东买了一个那个那个那个,neutral,neutral,neutral,pessimistic
+9,3,客户,呃新风机，啊但是这个它这个新风机安装安装的时候，,neutral,neutral,neutral,pessimistic
+10,3,客户,这个噪音没有处理好，我后来给你们反馈过反馈过之后，呢当时沟通的是说，那个嗯,neutral,pessimistic complaining,pessimistic,pessimistic
+11,3,客户,就是说如果我们这边能是因为我老婆因为这个还患上还那个最近查到医院查出了,neutral,neutral,neutral,pessimistic
+12,3,客户,这个比较严重的这个焦虑症，啊然后我之前给你们客服反馈过，说是,neutral,pessimistic complaining,pessimistic,pessimistic
+13,3,客户,您说是那个如果可以用的话接着用，啊如果不能用的话可以,neutral,neutral,neutral,pessimistic
+14,3,客户,嗯可以跟你们沟通退货，啊我也我当时也提出了，这个如果退货呢我毕竟安装了这个折旧费，我可以,neutral,pessimistic complaining,pessimistic,pessimistic
+15,3,客户,我可以这个负担一部分，啊你们当时是同意的，现在呢你们给我反馈回来，,neutral,neutral,neutral,pessimistic
+16,3,客户,反馈回来的话说折旧费2500 2500呢我是不能接受，我不能我不能接受的。,neutral,neutral,neutral,pessimistic
+17,3,客户,这个原因是什么呢？他,neutral,neutral,neutral,pessimistic
+18,3,客户,你们说的是2500 2500，其中1200块钱是这个安装和油费，,neutral,neutral,neutral,pessimistic
+19,3,客户,安装拆卸油费安装500块我可以接受，毕竟师傅当时在我们家里打孔啊安装这个可以接受，,neutral,neutral,neutral,pessimistic
+20,3,客户,来回的邮费也可以，啊就是毕竟你们要支付，,neutral,neutral,neutral,pessimistic
+21,3,客户,当时发货还有我现在退回去这个邮费这个也可以接受，但是拆机的500我不能接受，我我我说了拆机我可以自己来拆。,neutral,neutral,neutral,pessimistic
+22,3,客户,你们拆机当时这个噪音的事情没有处理好的时候，你们安排了师傅给我过来帮我拆机，我跟他一一块处理的，,neutral,neutral,neutral,pessimistic
+23,3,客户,那个茶几不超过10分钟就可以拆完，你你安装要要携带大型的工具，,neutral,neutral,neutral,pessimistic
+24,3,客户,然后又安排时间，然后来来来这个安装这个费用我可以接受对吧？这个已经支付出去了。,neutral,neutral,neutral,pessimistic
+25,3,客户,但是拆机就几个螺丝，我自己也可以拆的，你们凭什么要求一定要师傅来拆，,neutral,neutral,neutral,pessimistic
+26,3,客户,嗯而且而且这个东西这个东西这个没有钱嘛行吗？你们你们老是说怎么折旧折旧，你们拿回去报复，,neutral,neutral,neutral,pessimistic
+27,3,客户,这个咱们都做工业品的，我我也是做这个这个工业品的，,neutral,neutral,neutral,pessimistic
+28,3,客户,啊实话实说，这个东西回去桌布折旧是不是完全报废，扔到那个垃圾堆里面直接给它砸坏了，,neutral,pessimistic complaining,pessimistic,pessimistic
+29,3,客户,咱们心里有数，你没有必要拿这个来忽悠我。,neutral,pessimistic angry,pessimistic,pessimistic
+30,3,客户,再一个我们做工业品的时候这个这个开机，你们没有这个,neutral,neutral,neutral,pessimistic
+31,3,客户,权利这个要求说必须你们来拆机，你既然按照你们所谓的说报废，,neutral,pessimistic complaining,pessimistic,pessimistic
+32,3,客户,我并没有损坏什么东西，我自己可以开机，你们凭什么这个是没来，,neutral,pessimistic angry,pessimistic,pessimistic
+33,3,客户,这是第一个价值的折旧费，1000 1300我不能接受，我最多可以接受1000，我现在,neutral,neutral,neutral,pessimistic
+34,3,客户,在京东上说要跟你们领导提你们你们的客服,neutral,neutral,neutral,pessimistic
+35,3,客户,是个什么玩意儿，就给我来一句，你爱接受爱人接受都不接受，我们就这个方案没有其他方案，这是什么柜子？,neutral,neutral,neutral,pessimistic
+36,3,客户,我我都说了我还我这个有医院的一个鉴定证明，我还没有找你们要真实损失费，呢,neutral,neutral,neutral,pessimistic
+37,3,客户,你给我来这个你你你合理我我都说了我可以服他，我只说一点，就是,neutral,pessimistic complaining,pessimistic,pessimistic
+38,3,客户,油费安装费我可以出没问题，毕竟你们说我不接受你哪怕,neutral,neutral,neutral,pessimistic
+39,3,客户,第一个我自己可以拆机，第二个你拆这个费用安装的费用并不对等，反而是这个费用都可以，一个月有200我可以接受。,neutral,neutral,neutral,pessimistic
+40,3,客户,那你说你你你邮费你们跟快递公司卡快递公司的东西我就要1000，你们掏吗？你们也支付吗？,neutral,neutral,neutral,pessimistic
+41,3,客户,还是工资合理吧合理？吧,neutral,neutral,neutral,pessimistic
+42,3,客户,对吧？,neutral,neutral,neutral,pessimistic
+43,3,客户,这第二第第二个，,neutral,neutral,neutral,pessimistic
+44,3,客户,我这个新风机我在买了没多久的时候，当时应该还是在97年，我已经反馈这个问题了，直到现在,neutral,neutral,neutral,pessimistic
+45,3,客户,我没有我后来就没有用过，因为这个你们给我造成了很大很大的困扰，我父亲,neutral,neutral,neutral,pessimistic
+46,3,客户,我那个去年我老婆有这个教学者，我父亲因为去年病种去世了，,neutral,neutral,neutral,pessimistic
+47,3,客户,我后来都没有用过你们所谓的旧这个有点夸张了，所以你说什么你们说一个什么费用，你你这个,neutral,pessimistic complaining,pessimistic,pessimistic
+48,3,客户,按照你们算下来，我这个信封你总共2000多块钱，你折旧要1300，,neutral,neutral,neutral,pessimistic
+49,3,客户,啊我也就不讨论这个了，我我我可以支付1000 1300，不能接受，这两点你帮我处理一下，如如果你处理不了，,neutral,neutral,neutral,pessimistic
+50,3,客户,你反馈给你们的钻研，我需要一个跟你们的领导对接对吧？,neutral,pessimistic complaining,pessimistic,pessimistic
+51,3,客户,没有没有障碍您的意思是。,neutral,neutral,neutral,pessimistic
+52,2,客服,这样子先生，首先,neutral,neutral,neutral,neutral
+53,2,客服,嗯我先跟您说一下，首先您的问题到我这边结束，我们没有在上一级的专员去解决这个问题，关于您这个疑问的话我先跟您说一下，,neutral,neutral,neutral,neutral
+54,2,客服,因为确实我们机器没有退货的先例，只要上墙之后就没有说，,neutral,neutral,neutral,neutral
+55,2,客服,就是只要我们机器没有任何质量问题的情况下，是没有退货先例的，因为我们也是了解到了您的诉求，,neutral,neutral,neutral,neutral
+56,2,客服,然后呢是这边特殊申请去给您安排一个对接，因为,neutral,neutral,neutral,neutral
+57,2,客服,您这个打电话进来，呢我们也知道您是哪一个客户拿信息，因为我们这边的话是没有说有客户去退货的这样子，就您这个也是另外申请的，所以我们这边也有了解到。,neutral,neutral,neutral,neutral
+58,2,客服,就是是这样子，因为确实师傅在拆机安装，我们都要就是付给师傅的工人费。,neutral,neutral,neutral,neutral
+59,3,客户,我知道呀我知道你安装你你就是说你就是哪怕这个安徽拆迁费你得合理，,neutral,neutral,neutral,pessimistic
+60,3,客户,对吧？你安装这个我我我们我我在你们家买的不是第一台了，你这个果卖你们一年的销售量是多少？,neutral,neutral,neutral,pessimistic
+61,3,客户,你们自己可以看得到在市场的这个小我我我已经在连续拿掉了，你们这个安装的过程按约的时间安装工程量，,neutral,neutral,neutral,pessimistic
+62,3,客户,我完全都知道你这个500+500明显不对，你拆机最多10分钟就完事了，你安装也可能要至少要,neutral,neutral,neutral,pessimistic
+63,3,客户,半小时，至少可能要至少一个小时还得选位置，你这个你这并不合理，不是说这就有点就是你付钱,neutral,neutral,neutral,pessimistic
+64,3,客户,我是认的，毕竟是你们所谓的没有什么退货，我都认，但是你要合理对不对？,neutral,pessimistic complaining,pessimistic,pessimistic
+65,3,客户,你这个工作量怎么,neutral,neutral,neutral,pessimistic
+66,3,客户,凭什么可以等门口，你的依据在哪里？我都说了我自己可以拆，你们既然报废我自己拆了，我自己是不是也可以给我拆下来？,neutral,pessimistic complaining,pessimistic,pessimistic
+67,2,客服,就是我们的机器我们不管是否报废，是否返厂，是否怎么样，,neutral,neutral,neutral,neutral
+68,2,客服,那既然说我们答应您去给您折旧退货了，那这个具体继续是怎么操作，那就看我们工厂了，但是我们作为厂家，,neutral,neutral,neutral,neutral
+69,2,客服,我们作为销售。,neutral,neutral,neutral,neutral
+70,3,客户,那你们那你们那你们你们来处理，你们归你们处理，你这个费用的合理性在哪里，合理性在哪里？,neutral,neutral,neutral,neutral
+71,2,客服,我们也是需要付给支付的一个工人费这样子，如果说您觉得工人。,neutral,neutral,neutral,neutral
+72,3,客户,那您可以去跟我们谈，但是不存在说每个机器。,neutral,neutral,neutral,neutral
+73,2,客服,报废或者怎么样这样子。,neutral,neutral,neutral,neutral
+74,3,客户,具体你们你们安装你们安装是要预约时间，要拖着大鸡起来，你们你们这个拆方,neutral,neutral,neutral,neutral
+75,3,客户,这个费用的合理性在哪里？,neutral,neutral,neutral,neutral
+76,2,客服,我们拆收这个费用的话，我们就需要支付给师傅这个工人费的，就这个费用我们都是要。,neutral,neutral,neutral,neutral
+77,3,客户,工人费500吗？,neutral,neutral,neutral,neutral
+78,3,客户,那我是不是可以理解你们随便拆一下，10分钟500，那你们这个这这个这个,neutral,neutral,neutral,neutral
+79,3,客户,安装拿着大型机器来也是500，这个合理性在哪里？,neutral,neutral,neutral,neutral
+80,2,客服,这个是我们的一个定价，就是我们自己本身公司的定价。,neutral,neutral,neutral,neutral
+81,3,客户,你们是你们的，我可以提质疑啊对不对？那我我可以我我也没告诉你啊你个20万的车我可以卖你20万 10万，,neutral,neutral,neutral,neutral
+82,3,客户,10万的车我也可以可以卖卖10万，你要问我归理性没有，我就是这个价。,neutral,neutral,neutral,neutral
+83,2,客服,它这个东西的话就是我们它这个费用就是每个去定价的对不对？你每个城市那你每个城市每个工人的工资还不一样的，呢对不对？那这个的话不能说。,neutral,neutral,neutral,neutral
+84,3,客户,那你的意思是你们这个对你们的工人来说，5分钟和你们支付给工人5分钟,neutral,neutral,neutral,neutral
+85,3,客户,是是500块，一个小时也是500块，两个小时也是500块，这个工具不要钱对吧那工具是不要钱对吧？,neutral,neutral,neutral,neutral
+86,2,客服,不是说工具不要钱，师傅去您家里的，打个比方师傅去家您干个拆机的活，他也可以去接个安装的活，它这个道理是一样的。,neutral,neutral,neutral,neutral
+87,2,客服,师傅他也是靠工资来吃饭的，就是他这个道理都是这样的，打个比方我们打个车，我们可能还要这个钱呢对不对？还要不少钱，呢,neutral,neutral,neutral,neutral
+88,2,客服,它是一样的，呀你这些时间上对吧？师傅的一个交通。,neutral,neutral,neutral,neutral
+89,3,客户,费用全部都要算清楚，我就想问一下人家是否要赚钱，人家是不是要,neutral,neutral,neutral,neutral
+90,3,客户,要赚钱，那人家师傅一天装10台和差20台，人家人家选什么，人家干脆全部干干。,neutral,neutral,neutral,neutral
+91,3,客户,这个,neutral,neutral,neutral,neutral
+92,3,客户,是的。,neutral,neutral,neutral,neutral
+93,2,客服,咱们都也没有说全部拆，我刚才有跟您说，我们上墙基本上就没有说去退过货这样子，,neutral,neutral,neutral,pessimistic
+94,2,客服,所以我们也不存在说师傅拆机这样子，他们全部选择拆机或者怎么样，如果我们机器全部,neutral,neutral,neutral,pessimistic
+95,2,客服,客户使用几天之后拆掉了退掉了拆掉了退掉了，那我们作为一个生意方，那这个生意也大可不必干了，您说对吧？,neutral,pessimistic complaining,pessimistic,pessimistic
+96,3,客户,对，你们既然要把这个你们现在你们这个现在这个国脉新风机是,neutral,neutral,neutral,pessimistic
+97,3,客户,是比其他品牌发展的快，但是你你们也要合理性对吧？,neutral,neutral,neutral,pessimistic
+98,3,客户,你这个你这个理由并不能说服我你你所谓的这个等同等同，,neutral,neutral,neutral,pessimistic
+99,3,客户,等同等同指的是什么？呢工作量等工作时间等工作所耗费的。,neutral,neutral,neutral,pessimistic
+100,3,客户,这个,neutral,neutral,neutral,pessimistic
+101,3,客户,你打车这这些其他费用等同对吧？你这个你这来回你这个拆机的费用就跟你这个,neutral,neutral,neutral,pessimistic
+102,3,客户,你这个快递快递费一样，你来回是一样的价格，你不能说你你来的时候100回的时候500，吧你这个合理性在哪里？,neutral,neutral,neutral,pessimistic
+103,3,客户,你说的这些都都都不能是是理由，你这两个明显的工作量之间都完全都不一样，,neutral,neutral,neutral,pessimistic
+104,3,客户,那我出去你出去买东西也好，你吃个饭也好，干个啥你你去你你去逛街啊干个啥买个东西，,neutral,pessimistic complaining,pessimistic,pessimistic
+105,3,客户,你都是按照这个工作量你的数量来付钱的，你不可能说我吃一顿饭，我吃一碗面100块钱，我吃5碗面，,neutral,neutral,neutral,pessimistic
+106,3,客户,也是100块钱，人家店家能同意吗？,neutral,neutral,neutral,pessimistic
+107,2,客服,他这个定价是,neutral,neutral,neutral,neutral
+108,2,客服,确实说您说的，比如说你一个面你这家面20块钱，别的家卖100块钱对不对？那这个确实也有这样子去卖的，,neutral,neutral,neutral,neutral
+109,2,客服,但是我们所定价的我们是要支付给工人的一个工人费，,neutral,neutral,neutral,neutral
+110,2,客服,工时费这些我们都是要计算的，也不能说单纯说5分钟这个机器我就拆下来了。,neutral,neutral,neutral,neutral
+111,3,客户,师傅就只有5分钟的钱，这也不能是这样子来计算的先生。,neutral,neutral,neutral,neutral
+112,3,客户,你的我先说你安装的500块钱对于工人费,neutral,neutral,neutral,neutral
+113,3,客户,是怎么计算，工时费是多少，安装费是多少，工具费是多少，我听一下你们日子我们。,neutral,neutral,neutral,neutral
+114,2,客服,没有这个具体的，,neutral,neutral,neutral,neutral
+115,2,客服,我们是没有这个那。,neutral,neutral,neutral,neutral
+116,3,客户,你们就扯淡，嘛你们这么大的一个企业，你们这么大一个企业，你们这个这个费用都是拍脑袋出来的，,neutral,pessimistic complaining,pessimistic,pessimistic
+117,3,客户,没有任何一个依据，啊我就是要500块。,neutral,neutral,neutral,pessimistic
+118,2,客服,你甭管我们给师傅怎么发工资，是我们公司内部的，我们公司给每一个人发工资都是我们内部的一个决定，,neutral,neutral,neutral,neutral
+119,2,客服,我们是没有必要说。,neutral,neutral,neutral,neutral
+120,3,客户,像每个客户我们每个人发多少钱这样子都要去说的工具费工时费对吧？,neutral,neutral,neutral,neutral
+121,3,客户,我这个工具费体现在哪里？,neutral,neutral,neutral,neutral
+122,3,客户,是要用大型的一个一个什么什么机械去给他钻孔吗？,neutral,neutral,neutral,neutral
+123,2,客服,这个不需要用到大型工具，你也可以用到小飞扳手10号。,neutral,neutral,neutral,neutral
+124,3,客户,对呀我都说了，你自己也说这个你这个你这个所谓的就就跟你你所谓的这个费用你这是有依据的。,neutral,pessimistic complaining,pessimistic,pessimistic
+125,2,客服,我知道您的需求您先听我说一下，如果说您单纯的只是探讨费用，我们没有必要说把这个事情绕开到我们公司怎么定价，这个怎么跟您有关，我觉得这个是没有必要的。,neutral,neutral,neutral,neutral
+126,2,客服,如果说您觉得这个价格高了对不对？那我们就给您看一下，如果说你觉得500块钱高了，可以我这边可以给您申请对不对？,neutral,neutral,neutral,neutral
+127,2,客服,你觉得师傅不止拆机不止300 500块钱，那我就给您减掉300，我只收您就是一共的话，我只收您200块钱这样子。,neutral,neutral,neutral,neutral
+128,2,客服,你觉得折旧费不嗯就是说你觉得你只能支出1300，或者说你只能支付1000这样子，你可以说直接说这个金额大概是多少？,neutral,neutral,neutral,neutral
+129,2,客服,你报给我我看一下我能不能同意，如果说我可以那我告诉你我安排师傅去拆机，,neutral,neutral,neutral,neutral
+130,2,客服,那这个机器我们就返场对不对？如果不可以那具体的话，我们怎么去支付这个工资的定论，由我们公司内部来决定。,neutral,neutral,neutral,neutral
+131,3,客户,对啊你说的我不干涉啊我要不这依据，啊但是你没有给我个充分的依据，啊所以我质疑。啊嗯,neutral,neutral,neutral,neutral
+132,2,客服,那这样子先生，就是刚才我们这边客服也跟您说了，就是,neutral,neutral,neutral,neutral
+133,2,客服,费用的话就是我们这边所支出的一个所有的费用的话是1200，然后折旧费是1300。,neutral,neutral,neutral,neutral
+134,2,客服,我刚才也跟您说，我给您扣掉一个300块钱的一个费用，然后呢以及就是您说您只能接受1000的，,neutral,neutral,neutral,neutral
+135,2,客服,那就等于扣掉500块钱，2000块钱是我的底线，就是我现在的话。,neutral,neutral,neutral,neutral
+136,3,客户,折旧费我们可以安排师傅。,neutral,neutral,neutral,neutral
+137,2,客服,500块钱。,neutral,neutral,neutral,neutral
+138,3,客户,不是1300~1500~200吗？,neutral,neutral,neutral,neutral
+139,2,客服,这个的话我没有办法说再低，就是我总共最低的话就是2000块钱，这是一个权限了，这个是最大的了。,neutral,neutral,neutral,neutral
+140,2,客服,其他是没有了，不需要你自己寄回来，也全程不需要你动任何手，我们让师傅上门去拆，拆完之后我们让师傅打包，,neutral,neutral,neutral,neutral
+141,2,客服,箱子我们也给您寄过去，您要没有箱子就这些我们的话全部给您服务好。您只要说等师傅上门拆机就可以，然后等物流去取走就行。,neutral,neutral,neutral,neutral
+142,2,客服,机器取回来了之后我们安排给您退这个钱，我知道。嗯对，,neutral,neutral,neutral,neutral
+143,2,客服,这个如果说可以的话，我就让客服那边就给您备注，让他给您安排下去，您看可不可以？,neutral,neutral,neutral,neutral
+144,3,客户,好的好的，我考虑一下考虑一下。嗯,neutral,neutral,neutral,neutral
+145,2,客服,嗯好，那您确定好之后您跟客服说一下，这样子我们就等您一个最终答复，因为确实之前我们也一直在等您在您家里出了事情比较忙，嘛,neutral,neutral,neutral,neutral
+146,2,客服,那这个的话大概我们就约好三天的时间，等您一个最终答复好吧？10天3天。,neutral,neutral,neutral,neutral
+147,3,客户,你们给我们答复还是怎么着？,neutral,neutral,neutral,neutral
+148,2,客服,噢就是三天我们等您最终的答复，如果说您退就那折旧费我们扣掉2000，然后2000块钱扣掉，剩下的就是说我们这边退给您。,neutral,neutral,neutral,neutral
+149,2,客服,如果说超过三年你没有答复，那我们只能说需要您就是您这边自愿去默认接受，这台机器，就没有后续就没有再谈退货。,neutral,neutral,neutral,neutral
+150,2,客服,前期我们答应您退货，您没有退，但是因为您家里出了事情嘛我们也非常惋惜，所以的话,neutral,neutral,neutral,neutral
+151,2,客服,现在的话我们就是约好三天的时间，这个机器退还是不退这样子。,neutral,neutral,neutral,neutral
+152,3,客户,唉行，吧你这样吧也别3000啊这个周这个周周末之前我给你回复好吧？,neutral,pessimistic complaining,pessimistic,pessimistic
+153,2,客服,最晚最晚周末。,neutral,neutral,neutral,neutral
+154,2,客服,行，那就周末之前我们这边就等您答复好吧？到时您直接通知客服那边就行了。嗯好好好嗯好好嗯好再见。,neutral,neutral,neutral,neutral
+155,2,客服,啊,neutral,neutral,neutral,neutral

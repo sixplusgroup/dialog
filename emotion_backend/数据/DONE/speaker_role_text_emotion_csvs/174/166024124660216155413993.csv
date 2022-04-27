@@ -1,0 +1,23 @@
+0,2,客服,你好伙伴客资。,neutral,neutral,neutral,neutral
+1,3,客户,嗯你好，我这个之前约了一个,neutral,neutral,neutral,neutral
+2,3,客户,呃安装，然后他一直没给我这个过来，然后您是什么时候过来帮我查一下？,neutral,neutral,neutral,neutral
+3,2,客服,嗯来电号码看不到，您报一下手机号给我好吧？,neutral,neutral,neutral,neutral
+4,3,客户,166不是我不是从手机上报的，我是从那个淘宝那个店报的。,neutral,neutral,neutral,neutral
+5,2,客服,您我要查到您的购买资料，您把您收件手机告诉我一下，1666024。,neutral,neutral,neutral,neutral
+6,3,客户,嗯124嗯,neutral,neutral,neutral,neutral
+7,3,客户,66。,neutral,neutral,neutral,neutral
+8,2,客服,稍等查询一下张庆鹏用户家是吗？,neutral,neutral,neutral,pessimistic
+9,2,客服,对好的，,neutral,neutral,neutral,pessimistic
+10,2,客服,现在是您的意思是说反馈了几天没有人给您上门吗？,neutral,pessimistic complaining,pessimistic,pessimistic
+11,3,客户,对对对没人安装。,neutral,neutral,neutral,neutral
+12,2,客服,嗯这边的话一般来说反馈的话是不是在2~3天之内会跟您电话联系约时间的，不是次日就能上门的？,neutral,neutral,neutral,neutral
+13,3,客户,噢,neutral,neutral,neutral,neutral
+14,2,客服,对，因为师傅手上它本身,neutral,neutral,neutral,neutral
+15,2,客服,他这边手上本身是有排期的，然后他肯定是要把手上的一个工作先做完了，然后再预约一个新的一个时间，,neutral,neutral,neutral,neutral
+16,2,客服,所以说不会说是每个师傅他手上是没有工作的一个情况下。,neutral,neutral,neutral,neutral
+17,2,客服,对，所以一般来说他要调整这个上门的时间，根据不同的地址,neutral,neutral,neutral,neutral
+18,2,客服,来达到一个最快的一个效果的。,neutral,neutral,neutral,neutral
+19,3,客户,嗯行行行那我知道了。,neutral,neutral,neutral,neutral
+20,2,客服,我这边我这边会联系他，然后再催一下好吧？,neutral,neutral,neutral,neutral
+21,3,客户,嗯好的好的。,neutral,neutral,neutral,neutral
+22,2,客服,好的好的嗯好再见。,neutral,neutral,neutral,neutral

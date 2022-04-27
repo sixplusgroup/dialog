@@ -1,0 +1,35 @@
+0,2,客户,讲完了再坚持。来得及。,neutral,neutral,neutral,pessimistic
+1,2,客户,啊你就这样坚持自己也不不说，为什么。,neutral,pessimistic complaining,pessimistic,pessimistic
+2,2,客户,7。,neutral,neutral,neutral,pessimistic
+3,2,客户,七。,neutral,neutral,neutral,pessimistic
+4,3,客服,您好，欢迎您。唉您好。,neutral,neutral,neutral,neutral
+5,3,客服,嗯好的，那个您提供一下那个购机手机号，我这边查一下您的订单信息。,neutral,neutral,neutral,neutral
+6,2,客户,嗯180,neutral,neutral,neutral,neutral
+7,2,客户,1801909190926882688。,neutral,neutral,neutral,neutral
+8,3,客服,噢好的，是叫科飞是吗？啊对噢好的，那个您那个机器的话已经收到了吗？嗯收到了。,neutral,neutral,neutral,neutral
+9,3,客服,噢好的好的，那个安装的话就是当时那个呃这边的这个收货地址是吗？,neutral,neutral,neutral,neutral
+10,2,客户,啊不是，我现在就是把机器带到深圳来了，就在深圳这边安装。,neutral,neutral,neutral,neutral
+11,3,客服,噢好的，那您那个就是呃把您的那个地址就是报给我一下，就是安装的那个地址。,neutral,neutral,neutral,neutral
+12,2,客户,啊深圳市,neutral,neutral,neutral,neutral
+13,2,客户,盐田区呃深圳市。,neutral,neutral,neutral,neutral
+14,3,客服,嗯什么区？,neutral,neutral,neutral,neutral
+15,2,客户,盐田区盐田区嗯沙头乡。,neutral,neutral,neutral,neutral
+16,3,客服,沙头奖。,neutral,optimistic happy,optimistic,optimistic
+17,2,客户,嗯嗯然后呢彭湾一村。,neutral,neutral,neutral,neutral
+18,3,客服,嗯塘湾一村是吗？对。,neutral,neutral,neutral,neutral
+19,3,客服,呃旁是什么旁？,neutral,neutral,neutral,neutral
+20,2,客户,呢大棚展示的棚噢。,neutral,neutral,neutral,neutral
+21,3,客服,棚棚湾一村是吧？对，嗯然后呢。,neutral,neutral,neutral,neutral
+22,2,客户,17栋6单元201。,neutral,neutral,neutral,neutral
+23,3,客服, 17栋6单元201是吧？嗯,neutral,neutral,neutral,neutral
+24,3,客服,好的好的，那个安装的话还是联系就是,neutral,neutral,neutral,neutral
+25,3,客服,呃这个呃尾号2688的这个手机号码。,neutral,neutral,neutral,neutral
+26,2,客户,嗯不是你联系呃我这个打电话的手机号。,neutral,neutral,neutral,neutral
+27,3,客服,嗯您报给我一下，我这边看不到。,neutral,neutral,neutral,neutral
+28,2,客户,噢好150嗯。,neutral,neutral,neutral,neutral
+29,3,客服,15019221922。,neutral,neutral,neutral,neutral
+30,2,客户,嗯97279727。,neutral,neutral,neutral,neutral
+31,3,客服,好的，我这边给您反馈一下，到时候安装的话会有师傅联系您，再跟您约具体时间的。,neutral,neutral,neutral,neutral
+32,2,客户,噢好的好，谢谢。,neutral,optimistic thankful,optimistic,optimistic
+33,3,客服,唉好不客气的，好好再见。,neutral,neutral,neutral,neutral
+34,3,客服,啊,neutral,neutral,neutral,neutral

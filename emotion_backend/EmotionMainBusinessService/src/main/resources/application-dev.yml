@@ -1,0 +1,5 @@
+data-root-dir-path: F:/学习/毕设/_后端/emotion_backend/数据/DONE
+staff-voice_library_path: F:/学习/毕设/_后端/emotion_backend/case_generation_evaluation/staff_voice_library
+upload-staff-voice-tmp-path: /Users/杳杳钟/Desktop
+speech_skill-path: F:/学习/毕设/_后端/emotion_backend/数据/DONE/recommendation/speech_skill.csv
+service_template-path: F:/学习/毕设/_后端/emotion_backend/数据/DONE/recommendation/service_template.csv

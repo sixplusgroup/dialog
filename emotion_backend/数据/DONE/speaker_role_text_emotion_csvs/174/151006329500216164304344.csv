@@ -1,0 +1,34 @@
+0,2,客户,七呃。,neutral,neutral,neutral,neutral
+1,3,客服,我们这边是国迈科技，呃您好。,neutral,neutral,neutral,neutral
+2,2,客户,我想请问一下就是嗯那个,neutral,neutral,neutral,optimistic
+3,2,客户,你需要更换滤芯那个滤芯的时候，是不是就是机器面板上下面有三个那个指示灯，,neutral,neutral,neutral,optimistic
+4,2,客户,然后那个其中我们家就是现在是中间,happy,neutral,optimistic,optimistic
+5,2,客户, ttct那个白色的指示灯就是在开始闪烁了，是不是就是提示应该是更换滤芯的意思？,neutral,neutral,neutral,optimistic
+6,2,客户,呀,neutral,neutral,neutral,optimistic
+7,3,客服,嗯是这样子的，嗯寿命不足10%的时候，滤芯的话灯会白色的闪烁的对所以说？,neutral,neutral,neutral,neutral
+8,3,客服,对，然后滤芯累计时间达到我们设定的值时是红色常亮的，,neutral,neutral,neutral,neutral
+9,3,客服,嗯具体要不要更换，根据您的需求来确定。,neutral,neutral,neutral,neutral
+10,2,客户,噢那就是说现在如果我想更换也可以更换，呢但是说如果不想更换的话，就是也还能够使用一段时间，直到直到它那个变成,neutral,neutral,neutral,neutral
+11,2,客户,红色的灯对吧？,neutral,neutral,neutral,neutral
+12,3,客服,对对，噢那三这样的话，嗯嗯,neutral,neutral,neutral,neutral
+13,3,客服,您就目前已经提示寿命不足10%了，嗯最好的话是更换比较好一些嗯。,neutral,neutral,neutral,neutral
+14,2,客户,噢那就是但是现在他那个制出来的水还是能喝的，喝了就是没有什么问题是吧？,neutral,neutral,neutral,neutral
+15,3,客服,嗯对，它这边还是会有进化的。,neutral,neutral,neutral,neutral
+16,2,客户,噢那就是更换滤芯的时候需要断电吗？,neutral,neutral,neutral,neutral
+17,2,客户,机器嗯。,neutral,neutral,neutral,neutral
+18,3,客服,最好是断电。,neutral,neutral,neutral,neutral
+19,2,客户,噢断断电那断电就是嗯断电，比如我们家现在就是现在这个我更换了其中一个滤芯，,neutral,neutral,neutral,optimistic
+20,2,客户,那就是等在换完之后，我再就是在充电以后，嗯我看那个,happy,neutral,optimistic,optimistic
+21,2,客户,包装上就说明书上说是嗯那个复位键，那就是其他的那个那那个滤芯的件我需不需要多给他复位啊重新。啊,neutral,neutral,neutral,optimistic
+22,3,客服,嗯您只是换其中一个是吧？对。,neutral,neutral,neutral,neutral
+23,2,客户,因为我们家现在就是中间那 Pcpcp吧就是那个那个正在审。,neutral,neutral,neutral,neutral
+24,3,客服,嗯这个不是,neutral,neutral,neutral,neutral
+25,3,客服,呃不需要的，只要您是哪一个嗯就是滤芯换了，就哪一个要进行一个复位的。,neutral,neutral,neutral,neutral
+26,2,客户,嗯就即使重新就是在断电断完电以后再通电，其他的那个滤芯就是就是另个另外那个滤芯就二o那个不需要再,neutral,neutral,neutral,neutral
+27,2,客户,复位是吧？,neutral,neutral,neutral,neutral
+28,3,客服,对我们这边是有嗯对，您是换哪一个就复位，哪一个就可以了。,neutral,neutral,neutral,neutral
+29,2,客户,噢我明明白了，明白了，噢好的好的。,neutral,pessimistic complaining,pessimistic,pessimistic
+30,3,客服,那还有其他问题吗？,neutral,neutral,neutral,neutral
+31,2,客户,嗯其他的没有了。,neutral,neutral,neutral,neutral
+32,3,客服,嗯好的，感谢接听，祝您生活愉快。,neutral,optimistic thankful,optimistic,optimistic
+33,2,客户,再见，嗯好的，谢谢再见。,neutral,optimistic thankful,optimistic,optimistic

@@ -1,0 +1,15 @@
+0,2,客户,我们科室。,neutral,neutral,neutral,neutral
+1,3,客服,唉你好，就是我看到有一个净水器要送过来了，我想,neutral,neutral,neutral,neutral
+2,3,客服,我现在是预约安装师傅打不通他电话，我能在这儿预约一下安装时间吗？,neutral,neutral,neutral,neutral
+3,2,客户,噢可以的，您下单的手机号有吗？呃15011364736。,neutral,neutral,neutral,neutral
+4,2,客户,稍等。,neutral,neutral,neutral,neutral
+5,2,客户,啊,neutral,neutral,neutral,neutral
+6,2,客户,噢请问一下是北京市通州区这个地址对吗？对对对。,neutral,neutral,neutral,neutral
+7,2,客户,噢好的，您大概是想什么时间安装？呀,neutral,neutral,neutral,neutral
+8,3,客服,嗯周六中午12点行吗？,neutral,neutral,neutral,neutral
+9,2,客户,噢就是这周六的中午12点是吧？对的。,neutral,neutral,neutral,neutral
+10,2,客户,噢好的，我这边先给您反馈，到时师傅那边会再给您打电话，然后确认一下具体的时间，您等师傅电话就可以了。,neutral,neutral,neutral,neutral
+11,3,客服,好的好的好谢谢。,neutral,optimistic thankful,optimistic,optimistic
+12,2,客户,嗯没事的，那您到时有问题可以联系我们。,neutral,neutral,neutral,neutral
+13,3,客服,啊好的好的。,neutral,neutral,neutral,neutral
+14,2,客户,行嗯好好再见啊再见。,neutral,neutral,neutral,neutral

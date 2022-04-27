@@ -1,0 +1,20 @@
+0,2,客服,你们你好，国迈科斯。,neutral,neutral,neutral,neutral
+1,3,客户,啊唉你好，,neutral,neutral,neutral,neutral
+2,3,客户,我想咨询一下，就是我想搬家我就讲了两台新风，嗯想一下机咱那个什么。,neutral,neutral,neutral,neutral
+3,2,客服,是需要移机是吗？呃您下单的手机号给我一下。,happy,neutral,optimistic,optimistic
+4,3,客户,呢呃下单1391393853。,neutral,neutral,neutral,neutral
+5,2,客服,385377447744，等一下啊噢是河南郑州宜居还是在河南郑州吗？,neutral,neutral,neutral,neutral
+6,3,客户,对对对。,neutral,neutral,neutral,neutral
+7,2,客服,噢那您这边的话如果需要移机的话，我们先跟您说一下费用，就是我们基础的安装费是500，也就是说您当天拆当天装的情况下，这个费用是500块钱，,neutral,neutral,neutral,neutral
+8,2,客服,您当天拆改一天再装的话，这个费用是600块钱，嗯如果需要移机的话，,neutral,neutral,neutral,neutral
+9,2,客服,就是您这边可以联系天猫或者京东的客服支付费用之后，我们这边给您安排。,neutral,neutral,neutral,neutral
+10,3,客户,噢咱们那只能联系京东或天猫能直接给咱联系是吧？,neutral,neutral,neutral,neutral
+11,2,客服,嗯对，你直接跟他们联系要支付费用。,neutral,neutral,neutral,neutral
+12,3,客户,呢就我这边没有费用，第二台也是同样的500块钱吗？噢对。,neutral,neutral,neutral,neutral
+13,2,客服,两台费用的话每台机器是一样的。,neutral,neutral,neutral,neutral
+14,3,客户,那这需要提前预约吗？嗯对。,neutral,neutral,neutral,neutral
+15,2,客服,一般建议提前最少一周的时间。,neutral,neutral,neutral,neutral
+16,3,客户,最少一周是吧？,neutral,neutral,neutral,neutral
+17,2,客服,噢大概知道了。,neutral,neutral,neutral,neutral
+18,3,客户,行我知道了。,neutral,neutral,neutral,neutral
+19,2,客服,好谢谢啊噢没事没事，那您有问题可以联系我，嘛啊啊啊好好嗯好好的。,neutral,optimistic thankful,optimistic,optimistic

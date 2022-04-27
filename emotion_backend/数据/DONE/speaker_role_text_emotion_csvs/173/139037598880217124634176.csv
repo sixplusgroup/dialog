@@ -1,0 +1,11 @@
+0,2,客服,嗯,neutral,neutral,neutral,neutral
+1,2,客服,嗯啊喂喂喂,neutral,neutral,neutral,neutral
+2,2,客服,唉你好能听到。,neutral,neutral,neutral,neutral
+3,3,客户,啊你好，还是我刚才打电话不是报报噢噢好的，您说您说嗯那个嗯现在是这样，刚,neutral,neutral,neutral,neutral
+4,3,客户,不过联系可能好像是在钉钉群什么我也不太理解，就意思这样说，但是你们没有派那个维修单。,neutral,neutral,neutral,neutral
+5,2,客服,噢好的好的，我这边跟他再说一下好吧啊好勒。,neutral,neutral,neutral,neutral
+6,3,客户,啊他说你们那边没发单子，他们没办法过来。,neutral,neutral,neutral,neutral
+7,2,客服,啊好的好的，因为刚才我先跟他通知了，可能这个没有临时来讲就好，我这边跟他把这个事情处理一下。,neutral,neutral,neutral,neutral
+8,3,客户,不好意思，啊啊他说好像得派什么维修单，我也不太懂你们那个他说要没有维修单，啊他没办法过来。啊,neutral,pessimistic complaining,pessimistic,pessimistic
+9,2,客服,嗯好了，我看嗯好了，好再见唉好。,neutral,neutral,neutral,neutral
+10,3,客户,嗯,neutral,neutral,neutral,neutral

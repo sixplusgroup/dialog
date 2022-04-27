@@ -1,0 +1,25 @@
+server:
+  port: 8000
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/emotion
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  profiles:
+    active: dev
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+thrift:
+  EmotionRecognitionService:
+    host: '127.0.0.1'
+    port: 8001
+  CharacterRecognitionService:
+    host: '127.0.0.1'
+    port: 8002

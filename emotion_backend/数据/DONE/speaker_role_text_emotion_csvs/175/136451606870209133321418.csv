@@ -1,0 +1,15 @@
+0,2,客服,您好，古苗科技喂你好。,neutral,neutral,neutral,neutral
+1,3,客户,就是您姐。,neutral,neutral,neutral,neutral
+2,3,客户,年前我装了一个那个你们的，那个净水净水器那个装的时候上面那个,neutral,neutral,neutral,neutral
+3,3,客户,还有那个龙头坏了，你们说年后我回来就给我寄个新的，现在可以寄了。,neutral,neutral,neutral,neutral
+4,2,客服,噢您下单的手机号麻烦提供一下。,neutral,neutral,neutral,neutral
+5,3,客户,呢13645160687稍等。,neutral,neutral,neutral,neutral
+6,2,客服,啊,neutral,neutral,neutral,optimistic
+7,2,客服,13645160687是南京市江北这个地址是吧？,neutral,neutral,neutral,optimistic
+8,2,客服,对对对。,happy,neutral,optimistic,optimistic
+9,2,客服,噢好的，就是您现在已经在这边了是吧？对对对。,neutral,neutral,neutral,optimistic
+10,2,客服,噢行，那我们就正常给您安排发货了，等到了之后师傅那边会跟您联系的。,neutral,neutral,neutral,optimistic
+11,3,客户,啊好的好的，谢谢。,neutral,optimistic thankful,optimistic,optimistic
+12,2,客服,没事没事的，那您有问题可以联系我们。,neutral,neutral,neutral,neutral
+13,3,客户,啊好的好的。,neutral,neutral,neutral,neutral
+14,2,客服,嗯好好再见啊再见。,neutral,neutral,neutral,neutral

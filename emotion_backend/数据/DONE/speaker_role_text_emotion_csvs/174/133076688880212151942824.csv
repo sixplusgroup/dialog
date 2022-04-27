@@ -1,0 +1,36 @@
+0,2,客服,坐席你好挂牌客机。,neutral,neutral,neutral,neutral
+1,3,客户,那个春节前把一个那个新通那个,neutral,neutral,neutral,pessimistic
+2,3,客户,那个型号买买错了买错，我们心情那个心情退后先退后的话，他春节他就不说了，,neutral,pessimistic complaining,pessimistic,pessimistic
+3,3,客户,物流不说物流不说，他说那个那个那个那个那个个个个上班，再来说到现在还没来收。,neutral,neutral,neutral,pessimistic
+4,3,客户,啊,neutral,neutral,neutral,pessimistic
+5,2,客服,嗯我不太理解您的意思，您是买我们机器买错了要退货是吗？,neutral,neutral,neutral,pessimistic
+6,2,客服,对对对。,angry,neutral,pessimistic,pessimistic
+7,2,客服,我这边是品牌方的售后，啊您这个要退货的话，您要自己找快递把我们东西寄回来的。,neutral,neutral,neutral,pessimistic
+8,3,客户,我知道我是找快递没错，啊,neutral,neutral,neutral,neutral
+9,3,客户,是我们找快递啊是是你们通知，当时好像你们通知快递上门。,neutral,neutral,neutral,neutral
+10,2,客服,面我们通知快递上门的，您下面的手机号有吗？,neutral,neutral,neutral,neutral
+11,3,客户,时间很长了，没有了。,neutral,pessimistic complaining,pessimistic,pessimistic
+12,2,客服,您当时购买的手机号码没有吗？,neutral,neutral,neutral,neutral
+13,3,客户,有，当时购买的就是我这手机。,neutral,neutral,neutral,neutral
+14,3,客户,啊,neutral,neutral,neutral,neutral
+15,2,客服,噢不好意思，您来电是加密的，我这边是看不到的。,neutral,neutral,neutral,neutral
+16,3,客户,但是你记你你你记一下。,neutral,neutral,neutral,neutral
+17,3,客户,好吧，1330766 4个8。,neutral,neutral,neutral,neutral
+18,2,客服,福建泉州这个地址吗？,neutral,neutral,neutral,neutral
+19,3,客户,对对对没错。,neutral,neutral,neutral,neutral
+20,2,客服,这个是您当时自己喊的菜鸟果果啊就不是我们,neutral,neutral,neutral,pessimistic
+21,2,客服,这不是我们找快递的，是您自己找快递菜鸟果果的，因为我们这边不寄快递，,neutral,neutral,neutral,pessimistic
+22,2,客服,而且您申请的话请您改成7天无理由退货。,neutral,pessimistic complaining,pessimistic,pessimistic
+23,3,客户,可以可以我可以改我可以改。,neutral,neutral,neutral,neutral
+24,2,客服,这个不是我们的快递，它是菜鸟果果，不是我们商家的。,neutral,neutral,neutral,neutral
+25,3,客户,那那怎么我们要怎么通知啊。,neutral,neutral,neutral,neutral
+26,2,客服,噢这个你自己喊快递，就是你重新申请7天物流退货退款，我同意之后，,neutral,neutral,neutral,neutral
+27,2,客服,如果你需要菜鸟裹裹，就天猫的菜鸟裹给您退，那您就直接,neutral,neutral,neutral,neutral
+28,2,客服,钱就是说选择让他们上门取件就可以了，快递费付给他们他们就会给你寄了这样子。,neutral,neutral,neutral,neutral
+29,3,客户,噢那我们就就选择,neutral,neutral,neutral,neutral
+30,3,客户,上面上面退休了是吧？,neutral,neutral,neutral,neutral
+31,2,客服,对您把这个撤销掉，重新申请退货退款，我这边同意之后还会有就是说有那种菜鸟果果取件的，您可以选择这个方式。,neutral,neutral,neutral,neutral
+32,3,客户,好好谢谢。,neutral,optimistic thankful,optimistic,optimistic
+33,2,客服,嗯好好麻烦您了嗯好好再见。,neutral,optimistic thankful,optimistic,optimistic
+34,3,客户,好好好谢谢。,neutral,optimistic thankful,optimistic,optimistic
+35,3,客户,嗯,neutral,neutral,neutral,neutral

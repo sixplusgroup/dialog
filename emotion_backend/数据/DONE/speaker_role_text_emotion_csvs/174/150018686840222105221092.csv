@@ -1,0 +1,23 @@
+0,2,客户,你好。广迈科技。,neutral,neutral,neutral,neutral
+1,3,客服,唉你好，我在你们那个小程序上看到可以租赁检测仪对吧？,neutral,neutral,neutral,neutral
+2,2,客户,嗯对是的。,neutral,neutral,neutral,neutral
+3,3,客服,那个你们那个是和你们的天猫旗舰店的是一样的机器对吧？因为我看到租赁价格是不一样的。,neutral,neutral,neutral,neutral
+4,2,客户,噢机器是一样的。,neutral,neutral,neutral,neutral
+5,3,客服,噢那我就直接在小程序上下单，你们就收到就可以发了是吧？,neutral,neutral,neutral,neutral
+6,2,客户,对小程序那边，然后呢正常下单，他们那边会给您通知发的。,neutral,neutral,neutral,neutral
+7,3,客服,噢因为我刚跟那边客服打电话那个发信息也没有回，我怕你们的小程序不用了，我就在那互等就没有响应。,neutral,neutral,neutral,neutral
+8,3,客服,那嗯就不会的是吧？你们那边是有人看着的。,neutral,neutral,neutral,neutral
+9,2,客户,嗯对是的是可以的。,neutral,neutral,neutral,neutral
+10,3,客服,噢那我再问一下，因为我看你们那个说明里面写的就是说只最多只能是15个市值，那我想多,neutral,neutral,neutral,neutral
+11,3,客服,就是多测一些点，然后多买一些实质可以吗？,neutral,neutral,neutral,neutral
+12,2,客户,噢是可以的，如果您需要买的话，您它跟天猫价格是一样的，呀,neutral,neutral,neutral,neutral
+13,2,客户,因为他也是那个199。,neutral,neutral,neutral,neutral
+14,3,客服,啊他们天猫是268不。,neutral,neutral,neutral,neutral
+15,2,客户,它268是包含46块钱油费的，,neutral,neutral,neutral,neutral
+16,2,客户,就是你那个199它还是一样的，就是我们目前定价它是定的是一样的，,neutral,neutral,neutral,neutral
+17,2,客户,就是你199你可能在提交订单的时候还是会有一个邮费链接，它是包含46元的来回邮费这样子。,neutral,neutral,neutral,neutral
+18,3,客服,噢这样子呀噢那行，那如果这样那我就去天猫上那就方便一点。,neutral,neutral,neutral,neutral
+19,2,客户,嗯对是的，如果您要多加试纸的话，也可以让客服给您单推一个试纸链接就可以了，这样比较方便。,neutral,neutral,neutral,neutral
+20,3,客服,嗯好的行，那我知道了。,neutral,neutral,neutral,neutral
+21,2,客户,谢谢啊嗯噢没事没事好好再见啊来。,neutral,optimistic thankful,optimistic,optimistic
+22,3,客服,嗯,neutral,neutral,neutral,neutral

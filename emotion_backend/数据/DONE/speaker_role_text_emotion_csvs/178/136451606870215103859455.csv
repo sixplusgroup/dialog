@@ -1,0 +1,12 @@
+0,2,客户,我想预约一个安安排安装。,neutral,neutral,neutral,neutral
+1,2,客户,收到了。,neutral,neutral,neutral,neutral
+2,2,客户,136136,neutral,neutral,neutral,neutral
+3,2,客户,451645160687，好的。,neutral,neutral,neutral,neutral
+4,3,客服,啊这个那个,neutral,neutral,neutral,neutral
+5,3,客服,看出来的时候。,neutral,neutral,neutral,neutral
+6,3,客服,对。,neutral,neutral,neutral,neutral
+7,2,客户,装了两次都是坏的，啊你们又换了配件，一个月装一次换一个，配件装一次换一个，你说要整的,neutral,pessimistic complaining,pessimistic,pessimistic
+8,2,客户,都愁死我了。,neutral,pessimistic angry,pessimistic,pessimistic
+9,2,客户,星星期下装了，星期七第一次装说上面是那个龙头坏了，第二次又来又又换一个龙头，,neutral,neutral,neutral,pessimistic
+10,2,客户,换换了一个新龙头，发过来又又找人装，又说是下面的主机坏了，现在又重新发了一个主机。,neutral,neutral,neutral,pessimistic
+11,3,客服,好的。,neutral,neutral,neutral,neutral

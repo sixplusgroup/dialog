@@ -1,0 +1,132 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "label": "鸣人",
+      "value": 50,
+      "cluster": "default0",
+      "type": "rect"
+    },
+    {
+      "id": 2,
+      "label": "卡卡西",
+      "value": 40,
+      "cluster": "default1"
+    },
+    {
+      "id": 3,
+      "label": "自来也",
+      "value": 40,
+      "cluster": "default6",
+      "type": "rect"
+    },
+    {
+      "id": 4,
+      "label": "水门",
+      "value": 20,
+      "cluster": "default1"
+    },
+    {
+      "id": 5,
+      "label": "日斩",
+      "value": 30,
+      "cluster": "default3"
+    },
+    {
+      "id": 6,
+      "label": "纲手",
+      "value": 20,
+      "cluster": "default2"
+    },
+    {
+      "id": 7,
+      "label": "鹿丸",
+      "value": 20,
+      "cluster": "default0"
+    },
+    {
+      "id": 8,
+      "label": "佐井",
+      "value": 30,
+      "cluster": "default0"
+    },
+    {
+      "id": 9,
+      "label": "我爱罗",
+      "value": 30,
+      "cluster": "default0"
+    },
+    {
+      "id": 10,
+      "label": "宁次",
+      "value": 30,
+      "cluster": "default0",
+      "type": "rect"
+    },
+    {
+      "id": 11,
+      "label": "再不斩",
+      "value": 30,
+      "cluster": "default4",
+      "type": "ellipse"
+    },
+    {
+      "id": 12,
+      "label": "鼬",
+      "value": 40,
+      "cluster": "default5"
+    }
+  ],
+  "edges": [
+    {
+      "uid": 1,
+      "source": 1,
+      "target": 2,
+      "label": "bala"
+    },
+    {
+      "uid": 2,
+      "source": 1,
+      "target": 3,
+      "label": "bala"
+    },
+    {
+      "uid": 3,
+      "source": 1,
+      "target": 4,
+      "label": "bala"
+    },
+    {
+      "uid": 4,
+      "source": 3,
+      "target": 6,
+      "label": "bala"
+    },
+    {
+      "uid": 5,
+      "source": 2,
+      "target": 11,
+      "label": "bala",
+      "dash": true
+    },
+    {
+      "uid": 6,
+      "source": 2,
+      "target": 1,
+      "label": "bala"
+    },
+    {
+      "uid": 7,
+      "source": 5,
+      "target": 8,
+      "label": "bala"
+    },
+    {
+      "uid": 8,
+      "source": 7,
+      "target": 10,
+      "label": "bala",
+      "dash": true
+    }
+  ]
+}

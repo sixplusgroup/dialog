@@ -1,0 +1,25 @@
+0,2,客服,我是古迈的呃。,neutral,neutral,neutral,neutral
+1,3,客户,你好客服吗？,neutral,neutral,neutral,neutral
+2,3,客户,就是我之前在你们这里买了一台我卖的那个净水器，啊就前两天我家停水了，那个净水器出不来水，,neutral,neutral,neutral,neutral
+3,3,客户,然后那个净水器里呃底下那三盏灯都闪了，红色那个怎么搞您。,neutral,neutral,neutral,neutral
+4,2,客服,机器什么时间买的？,neutral,neutral,neutral,neutral
+5,3,客户,呃你查一下我的，你好久好久了了，我发什么给你？啊嗯,happy,neutral,optimistic,optimistic
+6,2,客服,抱歉了，就是嗯您是什么时间买的？,neutral,neutral,neutral,neutral
+7,3,客户,噢你等一下我看回那个订单。,happy,neutral,optimistic,optimistic
+8,3,客户,呃21年的4月份。,happy,neutral,optimistic,optimistic
+9,2,客服,4月份到现现在一直在用是吧？对对对。,happy,neutral,optimistic,optimistic
+10,2,客服,嗯您看一下机器上面有pct和ro这两个灯都是红色闪的对吧？,neutral,neutral,neutral,optimistic
+11,3,客户,对对对。,happy,neutral,optimistic,optimistic
+12,2,客服,那这个说明您要换滤芯了，您中中间有没有换过滤芯？,neutral,neutral,neutral,neutral
+13,3,客户,没有啊没有。就是,happy,neutral,optimistic,optimistic
+14,3,客户,一定要换了滤芯才有水出来了是吧？,neutral,neutral,neutral,optimistic
+15,2,客服,嗯是嗯是这样子的，嗯您这样您,neutral,neutral,neutral,neutral
+16,2,客服,按照您描述的红灯的话，一般如果是在pct或者是ro上面显示红灯，,neutral,neutral,neutral,neutral
+17,2,客服,那就说明是要换滤芯了，通过您描述我是初步这样判断的。,neutral,neutral,neutral,neutral
+18,2,客服,建议您的话，如果您是机器不出水，您先啊把那个不出水的情况下面主机的显示，包括上面不是,neutral,neutral,neutral,neutral
+19,2,客服,的情况拍一个完整的视频，找一下我们在线客服，然后到时候我们会给您反馈给技术部门，再给您看一下。,neutral,neutral,neutral,neutral
+20,3,客户,那个蓄水的那一个红灯也在访噢就 Io和pct，还有进水的三个灯都在闪。噢,happy,neutral,optimistic,optimistic
+21,2,客服,嗯理解您的意思，所以您先拍个视频，这样我们好找技术部门帮您看一下。,neutral,neutral,neutral,neutral
+22,3,客户,我现在就直接在那个淘宝上面发给发过去吗？嗯可以的。,neutral,neutral,neutral,optimistic
+23,3,客户,嗯好的好的，谢谢你。啊,neutral,optimistic thankful,optimistic,optimistic
+24,2,客服,嗯不客气嗯，再见。,neutral,neutral,neutral,neutral

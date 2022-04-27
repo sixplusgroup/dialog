@@ -1,0 +1,42 @@
+0,2,客服,你好国门客机。,neutral,neutral,neutral,neutral
+1,2,客服,您好您好。,neutral,neutral,neutral,neutral
+2,3,客户,那你能看见我那个订单吗？,neutral,neutral,neutral,neutral
+3,2,客服,嗯您是。,neutral,neutral,neutral,neutral
+4,3,客户,哪边那个果卖的有一个净水机。,neutral,neutral,neutral,neutral
+5,2,客服,对，嗯您是机器出了什么故障？,neutral,neutral,neutral,neutral
+6,3,客户,我那个净水机它就是不制水的时候，机器一直在响。,neutral,neutral,neutral,neutral
+7,2,客服,一直在想是吧？啊有没有联系过我们在线客服反馈一下，呢因为机器运作的时候,neutral,neutral,neutral,neutral
+8,2,客服,嗯是一直在想想多久？,neutral,neutral,neutral,neutral
+9,3,客户,就一直在。,neutral,neutral,neutral,neutral
+10,2,客服,想嗯关注的话，,neutral,neutral,neutral,neutral
+11,2,客服,您关注的话就是有没有看一下下面有有没有听到那种排水的声音？呢有排水。,neutral,neutral,neutral,neutral
+12,3,客户,啊它就是排水它显示,neutral,neutral,neutral,neutral
+13,3,客户,间断性的治水，嘛它就那个治水那个一直在闪。,neutral,neutral,neutral,neutral
+14,2,客服,就是上面水也没有放的情况下下面，治水的灯一直在闪。,neutral,neutral,neutral,neutral
+15,3,客户,然后有声音对吧对啊。,neutral,neutral,neutral,neutral
+16,2,客服,嗯那您拍个视频联系一下，我们在线客服，到时候会有专员帮您反馈给售后核实一下的。,neutral,neutral,neutral,neutral
+17,3,客户,我已经反馈了，,neutral,pessimistic complaining,pessimistic,pessimistic
+18,3,客户,你们那个 Khoo啥也不懂，就跟我说是正常的。,neutral,neutral,neutral,pessimistic
+19,2,客服,嗯嗯那,neutral,neutral,neutral,neutral
+20,2,客服,您这边的话嗯拍过视频吗？,neutral,neutral,neutral,neutral
+21,3,客户,拍过。,neutral,neutral,neutral,neutral
+22,3,客户,呀,neutral,neutral,neutral,neutral
+23,2,客服,那您这边的话稍等一下，我们这边嗯核实一下之后反馈给安相关部门核实一下好吧？,neutral,neutral,neutral,neutral
+24,3,客户,嗯那售后是,neutral,neutral,neutral,neutral
+25,3,客户,是你们的售后还是谁的？,neutral,neutral,neutral,neutral
+26,2,客服,呀还是京东我们的我们的售后。,neutral,neutral,neutral,neutral
+27,3,客户,你们的售后你问一下那个售后工号是多少？啊,neutral,neutral,neutral,neutral
+28,2,客服,嗯这个没有直接联系的方式的，我们这边是通过后台内部对接的，,neutral,neutral,neutral,neutral
+29,2,客服,您这边的话就是等我们这边到时候回复您一下，您的收货电话给我留一下好吧？,neutral,neutral,neutral,neutral
+30,3,客户,就这个本机。,neutral,neutral,neutral,neutral
+31,2,客服,嗯您报一下好吧，我这边没有来写。,neutral,neutral,neutral,neutral
+32,3,客户,1534三个8 8428。,neutral,neutral,neutral,neutral
+33,2,客服,核对一下15343388428对吗？4888。,neutral,neutral,neutral,neutral
+34,2,客服,是153对吗？4888嗯8428。,neutral,neutral,neutral,neutral
+35,2,客服,嗯中间是几个8？,neutral,neutral,neutral,neutral
+36,3,客户,中间4个。,neutral,neutral,neutral,neutral
+37,3,客户,后边8428啊中间三个8 428后边。,neutral,neutral,neutral,neutral
+38,2,客服,嗯我再对一下，1534888,neutral,neutral,neutral,neutral
+39,2,客服,8428对吧？嗯好的好的，我们这边帮您反馈一下好吧？,neutral,neutral,neutral,neutral
+40,3,客户,有没有技术人员？,neutral,neutral,neutral,neutral
+41,2,客服,嗯我们这边会反馈的到时候会给您回复的好吧？行，赶紧回复嗯再见。,neutral,neutral,neutral,neutral

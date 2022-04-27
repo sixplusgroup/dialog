@@ -1,0 +1,19 @@
+0,2,客户,要扫码绑定，,neutral,neutral,neutral,neutral
+1,3,客服,你好国脉科技。,neutral,neutral,neutral,neutral
+2,2,客户,你好，我想问一下就是我家里呢就是有一台果麦新风，,neutral,neutral,neutral,neutral
+3,2,客户,然后因为无线网络改了，然后我现在怎么重新让它连接上无线呢？,neutral,neutral,neutral,neutral
+4,3,客服,嗯之前的无线网络换了是吗？那您要把原始的给删除掉，,neutral,neutral,neutral,neutral
+5,3,客服,删除掉之后呢需要拔掉机器底部的电源线，三分钟以上再重新插电进行联网。,neutral,neutral,neutral,neutral
+6,3,客服,联网的过程中需要保留就是确认值保留2.4G只。,neutral,neutral,neutral,neutral
+7,2,客户,保留2.42~4G2点。,neutral,neutral,neutral,neutral
+8,3,客服,因为家里路由器正常分为5g跟2.4G双屏小型家电它只能适用于2.4，,neutral,neutral,neutral,neutral
+9,3,客服,所以在联网的时候需要将5g频段关闭，只保留2.4G进行联网，联网成功之后您再开5g跟2.4G是不影响的。,neutral,neutral,neutral,neutral
+10,2,客户,好，那我想问一下就是他在那个公众号上显示说要按设备上的配置按钮需要按吗？,neutral,neutral,neutral,neutral
+11,3,客服,噢要的，呀就是您在联网的时候要把那个 Wifi，就比如说我们在扫码就是网络已经配置好了，,neutral,neutral,neutral,neutral
+12,3,客服,那这个时候机器需要发出信号了，那就要去长按那个辅热键，让WiFi灯闪烁的。,neutral,neutral,neutral,neutral
+13,2,客户,按辅热键WiFi灯闪烁。,neutral,neutral,neutral,neutral
+14,3,客服,对长按辐射键WiFi灯闪烁这个就是配置。,neutral,neutral,neutral,neutral
+15,2,客户,点明白了明白了，好的，然后那我再试一下。,neutral,neutral,neutral,optimistic
+16,2,客户,好好谢谢啊。,neutral,optimistic thankful,optimistic,optimistic
+17,3,客服,嗯好好再见啊,neutral,neutral,neutral,neutral
+18,2,客户,嗯好好再见。,neutral,neutral,neutral,neutral

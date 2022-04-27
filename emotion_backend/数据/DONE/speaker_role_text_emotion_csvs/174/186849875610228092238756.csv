@@ -1,0 +1,80 @@
+0,2,客服,你好国美科技。,neutral,neutral,neutral,neutral
+1,3,客户,我想问一下就是我买我在你们家买了那个国脉新风机坏了怎么弄？啊,neutral,neutral,neutral,neutral
+2,2,客服,嗯是遇到什么问题了？,neutral,neutral,neutral,neutral
+3,3,客户,呢开不了机嗯,neutral,neutral,neutral,neutral
+4,2,客服,开不了机，请问一下您买的是420机器吗？啊,neutral,neutral,neutral,neutral
+5,2,客服,嗯就是您买的机器型号是420的吗？,neutral,neutral,neutral,neutral
+6,3,客户,320吧是320吧我不记得了。,neutral,neutral,neutral,neutral
+7,2,客服,嗯那您下单的手机号有吗？186。,happy,neutral,optimistic,optimistic
+8,2,客服,嗯186849884987561。,neutral,neutral,neutral,optimistic
+9,2,客服,7561，稍等一下。噢是的是在18年购买的对吧？对。,neutral,neutral,neutral,optimistic
+10,3,客户,其实去年就坏了。,neutral,neutral,neutral,pessimistic
+11,3,客户,去年就坏了，呢然后我对去年就坏了，但是我不知道找谁，我当时是找的，天猫、天猫反正售后不怎么好，反正我说实话啊,neutral,neutral,neutral,pessimistic
+12,3,客户,我后面就没管了，没管，呢然后我今天又去问那个我之前买机器的那个人，他给了我这个电话，然后我就再来打电话给你们。,neutral,pessimistic complaining,pessimistic,pessimistic
+13,2,客服,噢机器的那个底部的电源线就是有没有检查过？呀,neutral,neutral,neutral,neutral
+14,3,客户,检查过我的电源没问题，啦我的电源是可以用的，啊我的线也是插好的，呀但是它开不了机啊就完全没反应。啊,neutral,neutral,neutral,neutral
+15,3,客户,然后当时所以我不知道你们这个是什么，呢我说你售后他又不上门，他要我把机器寄回去那怎么可能。呢嗯,neutral,neutral,neutral,neutral
+16,2,客服,噢对我们维修的话就是确实是需要返厂维修的这样子，,neutral,neutral,neutral,neutral
+17,2,客服,因为它需要技术部进行一个全面检测，这样子确认一下什么问题。,neutral,neutral,neutral,neutral
+18,3,客户,那你那你总得上门看一下噻，你要你要上门如果解决不了你才能够去那个不啊你让我自己去记那么大个东西，我怎么记？喽,neutral,pessimistic complaining,pessimistic,pessimistic
+19,2,客服,呃320主要就是检查机器底部的电源线是否正常的这样子，如果是正常的话还是开不了，,neutral,neutral,neutral,neutral
+20,2,客服,那就要返厂，然后呢进行一个维修。,neutral,neutral,neutral,neutral
+21,3,客户,这样子噢那我还要寄回去。啊,neutral,neutral,neutral,neutral
+22,2,客服,嗯对是的，它是需要返厂维修的，就是您可以加我们售后微信,neutral,neutral,neutral,neutral
+23,2,客服,客服，然后让他给您发一个就是针对于过保流程方案，然后呢发给您，您可以选择一下这样子。,neutral,neutral,neutral,neutral
+24,3,客户,你说的法法法律方案是什么？我加你们的微信干嘛，你告诉我，你直接语音告诉我你说的你说的那个保留方案是不是？就是说就是三个方案是吧？,neutral,neutral,neutral,neutral
+25,2,客服,嗯对是的。,neutral,neutral,neutral,neutral
+26,3,客户,等一下啊就是跟天猫上面呃讲的是一样的是吧？,neutral,neutral,neutral,neutral
+27,2,客服,呃三个方案他是什么时候跟您说的？呀,neutral,neutral,neutral,neutral
+28,3,客户,去年说的啊什么700块钱加两次超期费什么700，等于快递费加配件费加拆装费。,neutral,neutral,neutral,optimistic
+29,3,客户,噢,happy,neutral,optimistic,optimistic
+30,2,客服,嗯这个我们后续的话是有修改过的，这样子就是这个流程，然后它是维修的话先跟您说一下，,neutral,neutral,neutral,neutral
+31,2,客服,嗯就是比如说您是选择维修，那先支付200元的师傅上门拆装机的一个费用，,neutral,neutral,neutral,neutral
+32,2,客服,然后的话嗯就是我们安排师傅上门给您拆装，然后呢邮费是由我们来承担，就是我们会安排快递员,neutral,neutral,neutral,neutral
+33,2,客服,寄到我们工厂那工厂进行检测，看一下具体是什么问题。,neutral,neutral,neutral,neutral
+34,2,客服,打个比方，如果是电路板的问题那就更换电控套件，,neutral,neutral,neutral,neutral
+35,2,客服,那电控套件就是320，那您补足这个配件费用，然后呢我们再维修，好给您发过去这样子，,neutral,neutral,neutral,neutral
+36,2,客服,然后再让师傅上门给您装。,neutral,neutral,neutral,neutral
+37,3,客户,好，那如果我那那那那个洞怎么办呢？,neutral,neutral,neutral,neutral
+38,2,客服,呃都我们会临时发像橡胶球类似的，然后呢用来临时堵住这样子。,neutral,neutral,neutral,neutral
+39,3,客户,那这个机器如果我不想要。呢,neutral,neutral,neutral,neutral
+40,2,客服,嗯您不想要不想要是以后都不用了是吗？对。噢那我们现在是没有,neutral,neutral,neutral,neutral
+41,2,客服,回收这个服务的，就是这个就看您自行处理了，如果您不想要的话。,neutral,neutral,neutral,neutral
+42,3,客户,啊那你那个洞那你那个洞就那你们能够不能够能够有人帮忙来不动不呢？,neutral,neutral,neutral,neutral
+43,2,客服,啊我们没有补强东的服务的，我们师傅非专业装修师傅，我们没有这个服务。,neutral,neutral,neutral,neutral
+44,3,客户,是啊当时搞的时候又给我打了那么大个洞，现在那个洞又不能补，我那个机器我我又我要也不是不要也不是，,neutral,neutral,neutral,pessimistic
+45,3,客户,而且你们这个你们的你们的你们的这个保修期也太短了，吧才两年，人家现在一个空调，,neutral,pessimistic complaining,pessimistic,pessimistic
+46,3,客户,一个2000多的空调的保修期都有6年，,neutral,neutral,neutral,pessimistic
+47,3,客户,嗯还不能上门，还要把这个东西给拿回去，我真的第一次遇到这种。,neutral,neutral,neutral,pessimistic
+48,2,客服,呃女士，他这个上门是否上门，他来回的快递费都是由我们来厂家承担的，,neutral,neutral,neutral,neutral
+49,2,客服,就是即使他师傅上门，哪些费用啊就是还是您支付这些费用。,neutral,neutral,neutral,neutral
+50,3,客户,那你这个费用也很高，啊你这个费用难道不高吗？,neutral,neutral,neutral,neutral
+51,3,客户,你没有哪个没有哪个品牌的是这样。啊,neutral,neutral,neutral,neutral
+52,3,客户,别的品牌东西坏了，我买别的东西上门都只要他没有说什么要200块钱的上门费的，哪有这样子的？,neutral,neutral,neutral,neutral
+53,2,客服,呃女士这个不是上门费，是师傅上门的一个拆装机的费用，这些都是要计算在内的，包括配件费用这些肯定都是要计算的。,neutral,neutral,neutral,neutral
+54,3,客户,啊配件费用我能够理解，噢你过了保修期以后，你的配件坏了，你要自己买，这个是是这样子的。,happy,neutral,optimistic,optimistic
+55,3,客户,但是一般来说你在上门之后，如果配件是多少，,neutral,neutral,neutral,optimistic
+56,3,客户,搞了以后是多少钱，那就是多少钱，没有说什么那拆装还要200的，你这个东西你这个机器我本来上面都打打了孔的，,neutral,neutral,neutral,optimistic
+57,3,客户,只是一个旧机器把它搞下来和一个换一个新机器搞上去，再有什么区别，呢那你那你们这个品牌的那那你这个我真的是不能够理解。,neutral,neutral,neutral,optimistic
+58,3,客户,讲实话，我我第一次说我是买个空调啊或者买个电视机买个什么师傅上门维修，只要是说如果是说没有产生维修，,neutral,neutral,neutral,optimistic
+59,3,客户,只是我自己的问题没有搞好的，那我要出一个上门费，如果是产生的真实真实的维修是东西坏了，那么就,neutral,neutral,neutral,optimistic
+60,3,客户,嗯就是说是怎么补就是怎么怎么修就是怎么修，那个配件要多少钱就是多少钱。,neutral,neutral,neutral,optimistic
+61,3,客户,我们所有的电器产品又不是第一次买电器是吧？别的电器全部都是这样，只有你们家是这样，还要什么快递费啊配件费啊拆装机费。啊,neutral,neutral,neutral,optimistic
+62,2,客服,真的是嗯这个拆装计费，因为我们确实也要支付给师傅的，那比如说您其他的电器，像我们自己也确实都有买其他的电器，,neutral,neutral,neutral,neutral
+63,2,客服,那家里面电器也比较多，那你正常比如说你服务范围内你该支付上门费，支付上门费是一样的。,neutral,neutral,neutral,neutral
+64,3,客户,那更换配件上门费，我们因为你的配件并没有上升我的。,neutral,neutral,neutral,neutral
+65,2,客服,维修费这样子。,neutral,neutral,neutral,neutral
+66,3,客户,我错我其他的电器是这样子的，,neutral,neutral,neutral,neutral
+67,3,客户,产生的维修就会就会有就会就不会有上门费，没有产生维修就会有上门费，,neutral,neutral,neutral,neutral
+68,3,客户,产生和不产生是两回事，如果是我自己的问题没有坏，然后你觉得坏了，然后把人喊上来了，,neutral,neutral,neutral,neutral
+69,3,客户,又没有那就必须要付上门费，如果确实真实的产生的坏了，是没有上门费的。,neutral,neutral,neutral,neutral
+70,2,客服,您这个订单已经超出质保期了超出质保期的话，就是它是需要支付费用然后进行处理的。,neutral,neutral,neutral,neutral
+71,3,客户,这样子唉呀都是一样的，呢,neutral,neutral,neutral,pessimistic
+72,3,客户,你如你如果你这样回复我那我这个电话，我就相当于我白打，嘛我大不了就以后不管你们这个产品就可以了，嘛这很简单的一个道理。,neutral,pessimistic complaining,pessimistic,pessimistic
+73,3,客户,啦,neutral,neutral,neutral,pessimistic
+74,3,客户,我都说了你一个一个一个一个4000块钱的机子，我用了两年不到，我正式使用才两年，最多就是两年，,neutral,pessimistic complaining,pessimistic,pessimistic
+75,3,客户,我后面根本就没什么用，我那个那的我想用一下的时候就发现不能用了，你你你这个保我我也是无语了，,neutral,pessimistic complaining,pessimistic,pessimistic
+76,3,客户,那谁会还会去买你们这种东西，嘛你这我我用个两年坏了，然后你后面的后续的费用这么高，,neutral,pessimistic complaining,pessimistic,pessimistic
+77,3,客户,你帮我补好用两年又话我又这么搞，我还何必呢我不能时间买买别的东西，啊你这又不是不能替代的，,neutral,neutral,neutral,pessimistic
+78,3,客户,好吧，那就当我白说。,neutral,neutral,neutral,pessimistic
+79,2,客服,好不这个非常棒？,neutral,neutral,neutral,neutral

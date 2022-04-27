@@ -1,0 +1,1 @@
+把thrift生成的代码放到source根目录下（即java目录）

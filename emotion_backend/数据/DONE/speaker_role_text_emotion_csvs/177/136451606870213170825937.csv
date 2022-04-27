@@ -1,0 +1,23 @@
+0,2,客户,喂你好，我那个是装就是买你们那个净水机的。,neutral,neutral,neutral,neutral
+1,3,客服,嗯您说。,neutral,neutral,neutral,neutral
+2,2,客户,就我想问一下怎么回事，啊第一次装说上面的那个龙头坏了，今天又来装修又下面的坏了，你们的,neutral,neutral,neutral,neutral
+3,2,客户,这玩意怎么回事啊那这边？能不能行。,neutral,neutral,neutral,neutral
+4,3,客服,啊噢非常不好意思，您下单的手机号有吗？,neutral,neutral,neutral,neutral
+5,2,客户,136,neutral,neutral,neutral,neutral
+6,2,客户,嗯45160687。,neutral,neutral,neutral,neutral
+7,3,客服,好的，稍等。嗯是南京市江北新区这个地址是吗？,neutral,neutral,neutral,neutral
+8,2,客户,对呀。,neutral,neutral,neutral,neutral
+9,3,客服,噢好的，这个的话因为我们这边现在也确定不了具体是什么问题，要返回那个,neutral,neutral,neutral,neutral
+10,3,客服,工厂那边，然后要具体查看一下这样子。,neutral,neutral,neutral,neutral
+11,2,客户,那我那现在是现在是怎么整，啊你们是重新发一个还是这还是怎么的？,neutral,neutral,neutral,neutral
+12,3,客服,噢我看是给您发一个新的机器过去的，就是负责人说要给您换一台新的机器过去这样子。,neutral,neutral,neutral,neutral
+13,2,客户,噢,neutral,neutral,neutral,pessimistic
+14,2,客户,怎么回事？这到底是是我也不知道是装的人的问题，还是你机器的问题，啊怎么一会做坏一会那个还没还没,neutral,pessimistic complaining,pessimistic,pessimistic
+15,2,客户,还没用，呢还第一次都是新的这故障率这么高吗？,neutral,neutral,neutral,pessimistic
+16,3,客服,这个我们要看一下是不是加热机里面那个插头接触不良了这样子，,neutral,neutral,neutral,neutral
+17,3,客服,嗯所以的话就是我们这边给您换一台新的，然后把旧的这个退回来，我们检查一下。,neutral,neutral,neutral,neutral
+18,2,客户,噢行了行了行了，,neutral,neutral,neutral,neutral
+19,2,客户,那你们都给我发。,neutral,neutral,neutral,neutral
+20,3,客服,呀呃我们这边的话今天或者明天就会给您发了。噢行行。,neutral,neutral,neutral,neutral
+21,3,客服,嗯好的好的，那这边就先不打扰您了，好再见。,neutral,neutral,neutral,neutral
+22,2,客户,啊,neutral,neutral,neutral,neutral

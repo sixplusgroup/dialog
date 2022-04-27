@@ -1,0 +1,30 @@
+0,2,客户,您好报我的手机号查一下订单订单安装师傅没有安装成功，,neutral,neutral,neutral,neutral
+1,2,客户,然后他他给你们报的是安装成功了，把我家搞的漏水，厨房整个都发水，机器不能使用。,neutral,neutral,neutral,neutral
+2,3,客服,噢好的，不好意思，那您提供一下您下单的手机号码。,neutral,neutral,neutral,neutral
+3,2,客户,呢1895686嗯8289好的。,neutral,neutral,neutral,neutral
+4,3,客服,18956868289对吗？对是的，噢请问一下是亳州市这个地址对吧？,neutral,neutral,neutral,neutral
+5,2,客户,对是的。,neutral,neutral,neutral,neutral
+6,3,客服,噢好的，我看了一下，我们这边的话，淘宝上面客服给您反馈，就是安排师傅了，就是换师傅上门给您处理一下。,neutral,neutral,neutral,neutral
+7,2,客户,听师傅说安装好了，我无论怎么说安装不好，你们就是非要说师傅安装好了。,neutral,neutral,neutral,neutral
+8,3,客服,嗯好的，非常不好意思给您带来吧。,neutral,neutral,neutral,neutral
+9,2,客户,一拿到这个机器，他就说没有装过，就在看说明看你们那个,neutral,neutral,neutral,neutral
+10,2,客户,技术人员的计划是连接从我家从早上10点多开始装装到下午搞得我家厨房全是水，,neutral,neutral,neutral,neutral
+11,2,客户,然后机器还有磨损。,neutral,neutral,neutral,neutral
+12,3,客服,噢这样子是吧？,neutral,neutral,neutral,neutral
+13,3,客服,非常抱歉，对。,neutral,neutral,neutral,neutral
+14,2,客户,我现在就是要投诉他，我要处理这个事情，,neutral,neutral,neutral,pessimistic
+15,2,客户,而且你们就是官方上一直在相信师傅说的，安装好了就是不相信我提供的。,neutral,pessimistic complaining,pessimistic,pessimistic
+16,3,客服,噢抱歉女士，,neutral,neutral,neutral,neutral
+17,3,客服,呃这边师傅的话我们会反馈负责人对他进行处罚的，如果这边的话师傅屡次这样的话，我们也会跟他解除合作，开除他的这样子。,neutral,neutral,neutral,neutral
+18,3,客服,然后的话客服那边是确实给您反馈了，因为它是后台可能师傅上传的记录需要核实一下，这样子去跟您说，所以我们这边就重新给您安排了师傅。,neutral,neutral,neutral,neutral
+19,2,客户,对是嗯？我当时就要求换师傅，他就赖在我家不走，就非要给我装，早上我打电话的时候，,neutral,neutral,neutral,neutral
+20,2,客户,他跟我承认的是没有装好，但是他跟你们说就是安装好了，他不会跟你们承认安装好的。,neutral,neutral,neutral,neutral
+21,3,客服,噢好的，非常抱歉师傅他给。,neutral,neutral,neutral,neutral
+22,2,客户,我搞的磨损了。嗯,neutral,neutral,neutral,neutral
+23,3,客服,这个师傅那边我们这边会让负责人直接对他进行处罚的这样子，因为他们会有对接的负责人进行处理，,neutral,neutral,neutral,neutral
+24,3,客服,噢然后我们这边的话就会重新给您安排一个师傅，然后师傅上门给您处理的。,neutral,neutral,neutral,neutral
+25,2,客户,嗯好的，谢谢。啊,neutral,optimistic thankful,optimistic,optimistic
+26,3,客服,嗯非常不好意思，啊到时的话处理过程中要是有什么问题啊之类的，您可以都跟我们联系的。,neutral,neutral,neutral,neutral
+27,2,客户,嗯好的。,neutral,neutral,neutral,neutral
+28,3,客服,那你有问题再跟我们联系。,neutral,neutral,neutral,neutral
+29,2,客户,哈嗯好的好的。,neutral,neutral,neutral,neutral
