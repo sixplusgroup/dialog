@@ -215,13 +215,13 @@ def get_case_score(staff_emotion_score, staff_polite_words_percent, customer_emo
                    staff_solve_problem_score):
     # 一级权重 [0.27895456548641834, 0.6491180046313252, 0.07192742988225646]
     # 服务态度二级权重 [0.8571428571428571, 0.14285714285714285]
-    # 客户满意二级权重 [0.8999999999999999, 0.09999999999999999]
-    # 问题处理二级权重 [0.12499999999999999, 0.875]
+    # 客户满意二级权重 [0.9, 0.1]
+    # 问题处理二级权重 [0.125, 0.875]
     return (staff_emotion_score * 0.8571428571428571 + staff_polite_words_percent * 0.14285714285714285) \
            * 0.27895456548641834 \
-           + (customer_emotion_score * 0.8999999999999999 + customer_satisfied_score * 0.09999999999999999) \
+           + (customer_emotion_score * 0.9 + customer_satisfied_score * 0.1) \
            * 0.6491180046313252 \
-           + (staff_understand_problem_score * 0.12499999999999999 + staff_solve_problem_score * 0.875) \
+           + (staff_understand_problem_score * 0.125 + staff_solve_problem_score * 0.875) \
            * 0.07192742988225646
 
 

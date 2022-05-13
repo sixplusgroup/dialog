@@ -98,7 +98,7 @@ def get_problem_solve_score(staff_cases: List[CaseEvaluation]):
     problem_understand_average_score = sum([_.staff_understand_problem_score for _ in staff_cases]) / len(staff_cases)
     problem_unsolved_percent = len([_ for _ in staff_cases if _.staff_solve_problem_score <= 25]) / len(staff_cases)
     problem_solve_score = 0.5 * problem_solved_percent \
-                          + (0.12499999999999999 * problem_understand_average_score
+                          + (0.125 * problem_understand_average_score
                              + 0.875 * problem_solved_average_score) * 0.5
     if problem_solve_score >= 75:
         problem_solve = '优秀'

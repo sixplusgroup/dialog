@@ -103,8 +103,8 @@ public class CaseService {
     Map<String, List<CaseEvaluation>> getTypicalCases(){
         // 一级权重 [0.27895456548641834, 0.6491180046313252, 0.07192742988225646]
         // 服务态度二级权重 客服情绪得分 礼貌用语 [0.8571428571428571, 0.14285714285714285]
-        // 客户满意二级权重 客户情绪得分 客户表达满意 [0.8999999999999999, 0.09999999999999999]
-        // 问题处理二级权重 理解问题 解决问题 [0.12499999999999999, 0.875]
+        // 客户满意二级权重 客户情绪得分 客户表达满意 [0.9, 0.1]
+        // 问题处理二级权重 理解问题 解决问题 [0.125, 0.875]
         List<CaseEvaluation> caseEvaluations = caseEvaluationMapper.getAllCaseEvaluations();
         Map<String, List<CaseEvaluation>> typicalCases = new HashMap<>();
 
@@ -166,9 +166,9 @@ public class CaseService {
 
         // 问题处理
         caseEvaluations.sort((CaseEvaluation case1, CaseEvaluation case2)->{
-            double res = case1.getStaffUnderstandProblemScore()*0.12499999999999999
+            double res = case1.getStaffUnderstandProblemScore()*0.125
                     +case1.getStaffSolveProblemScore()*0.875
-                    -case2.getStaffUnderstandProblemScore()*0.12499999999999999
+                    -case2.getStaffUnderstandProblemScore()*0.125
                     -case2.getStaffSolveProblemScore()*0.875;
             if(res>0)
                 return 1;
