@@ -79,7 +79,7 @@ def get_service_num_score(staff_cases: List[CaseEvaluation]):
 
     all_staffs_cases_dict = defaultdict(int)
     for _ in all_cases:
-        all_staffs_cases_dict[staff_id] += 1
+        all_staffs_cases_dict[_.staff_id] += 1
     all_staffs_case_nums = list(all_staffs_cases_dict.values())
 
     if len(all_staffs_case_nums) == 0:
@@ -93,10 +93,11 @@ def get_service_num_score(staff_cases: List[CaseEvaluation]):
 def get_problem_solve_score(staff_cases: List[CaseEvaluation]):
     if len(staff_cases) == 0:
         return 0, 100, '不足'
-    problem_solved_percent = len([_ for _ in staff_cases if _.staff_solve_problem_score >= 75]) / len(staff_cases)
+    problem_solved_percent = len([_ for _ in staff_cases if _.staff_solve_problem_score >= 75]) / len(staff_cases) * 100
     problem_solved_average_score = sum([_.staff_solve_problem_score for _ in staff_cases]) / len(staff_cases)
     problem_understand_average_score = sum([_.staff_understand_problem_score for _ in staff_cases]) / len(staff_cases)
-    problem_unsolved_percent = len([_ for _ in staff_cases if _.staff_solve_problem_score <= 25]) / len(staff_cases)
+    problem_unsolved_percent = len([_ for _ in staff_cases if _.staff_solve_problem_score <= 25]) / len(
+        staff_cases) * 100
     problem_solve_score = 0.5 * problem_solved_percent \
                           + (0.125 * problem_understand_average_score
                              + 0.875 * problem_solved_average_score) * 0.5
