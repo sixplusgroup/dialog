@@ -118,7 +118,7 @@ def get_time_score(staff_cases: List[CaseEvaluation]):
     staff_cases_times = [_.time_in_seconds for _ in staff_cases]
     average_time = sum(staff_cases_times) / len(staff_cases_times)
     time_score = np.mean(dist.predict(staff_cases_times)['y_proba']) * 2 * 100
-    if time_score <= 0.3:
+    if time_score <= 30:
         if average_time >= dist.model['loc']:
             average_time_description = '偏长'
         else:
